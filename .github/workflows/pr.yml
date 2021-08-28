@@ -23,3 +23,15 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           path: dist
+
+  check-commits:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Get PR commits
+      run: |
+        curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" -o out.json ${{ github.event.pull_request.commits_url }}
+
+    - name: Check PR commit messages
+      run: |
+        echo -e 'import json\ncommits = set((d["sha"], d["commit"]["message"]) for d in json.load(open("out.json", "r")))\nbad_commits = {s for s in commits if s[1].startswith("fixup!") or s[1].startswith("squash!")}\nif bad_commits:\n  raise ValueError(f"There are some bad commits: {bad_commits}")' | python3
