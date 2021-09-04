@@ -1,34 +1,4704 @@
 [
-	{
-		"question": "Raphaël est principalement connu pour laquelle des œuvres suivantes ?",
-		"good_answers": [
-			"L'École d'Athènes"
-		],
-		"bad_answers": [
-			"La Cène",
-			"Les décorations murales de la Chapelle Sixtine",
-			"Mona Lisa"
-		]
-	}, {
-		"question": "Quel commandant était considéré comme un ennemi de Rome depuis ses jeunes jours ?",
-		"good_answers": [
-			"Hannibal Barca"
-		],
-		"bad_answers": [
-			"Särka",
-			"Frédéric 1er",
-			"Boadicée",
-			"Sârka",
-			"Frédéric ler",
-			"Séärka",
-			"Sérka"
-		]
-	}, {
-		"question": "Combien de phases compose l’événement Le plus grand gouverneur ?",
-		"good_answers": ["6"],
-		"bad_answers": [
-			"7",
-			"4"
-		]
-	}
+  {
+    "good_answers": [
+      "L'École d'Athènes"
+    ],
+    "bad_answers": [
+      "La Cène",
+      "Les décorations murales de la Chapelle Sixtine",
+      "Mona Lisa"
+    ],
+    "question": "Raphaël est principalement connu pour laquelle des œuvres suivantes ?"
+  },
+  {
+    "good_answers": [
+      "Hannibal Barca"
+    ],
+    "bad_answers": [
+      "Särka",
+      "Frédéric 1er",
+      "Boadicée",
+      "Sârka",
+      "Frédéric ler",
+      "Séärka",
+      "Sérka"
+    ],
+    "question": "Quel commandant était considéré comme un ennemi de Rome depuis ses jeunes jours ?"
+  },
+  {
+    "good_answers": [],
+    "bad_answers": [
+      "7",
+      "4"
+    ],
+    "question": "Combien de phases compose l’événement Le plus grand gouverneur ?"
+  },
+  {
+    "good_answers": [
+      "Attaquer d’autres joueurs"
+    ],
+    "bad_answers": [
+      "Utiliser des tomes du savoir",
+      "Vaincre des gardiens de ville",
+      "Élimination de barbares",
+      "Élimination de gardiens"
+    ],
+    "question": "Laquelle des propositions suivantes ne donne PAS d’EXP de commandant ?"
+  },
+  {
+    "good_answers": [
+      "Améliorer le château"
+    ],
+    "bad_answers": [
+      "Améliorer le mur",
+      "Améliorer le centre d'alliance",
+      "Améliorer l’hôtel de ville"
+    ],
+    "question": "À quoi servent les Livres d’alliance ?"
+  },
+  {
+    "good_answers": [
+      "Tokugawa leyasu"
+    ],
+    "bad_answers": [
+      "Oda Nobunaga",
+      "Ishida Mitsunari",
+      "Takeda Shingen"
+    ],
+    "question": "Quel homme d’État proéminent a servi comme Premier général lors du shogunat d’Edo à la fin de la période des Royaumes combattants du Japon ?"
+  },
+  {
+    "good_answers": [
+      "Accélérateur de soin"
+    ],
+    "bad_answers": [
+      "Accélérateur de construction",
+      "Accélérateur d’entraînement",
+      "Accélérateur de recherche"
+    ],
+    "question": "Dans le Tombeau d'Osiris, quel accélérateur pouvez-vous utiliser ?"
+  },
+  {
+    "good_answers": [
+      "Stephen Hawking"
+    ],
+    "bad_answers": [
+      "Paul Dirac",
+      "Isaac Newton",
+      "Henry Cavendish",
+      "|Isaac Newton"
+    ],
+    "question": "Lequel des physiciens suivants est né à l’anniversaire de la mort de Galilée et mort à l’anniversaire de la naissance d’Albert Einstein ?"
+  },
+  {
+    "good_answers": [
+      "Offrir un chemin vers le salut"
+    ],
+    "bad_answers": [
+      "Expliquer les qualités humaines",
+      "Expliquer les événements de la vie",
+      "Expliquer les phénomènes naturels"
+    ],
+    "question": "Laquelle de ces propositions n'est pas un objectif de la mythologie grecque ?"
+  },
+  {
+    "good_answers": [
+      "Espagne"
+    ],
+    "bad_answers": [
+      "Allemagne",
+      "Portugal",
+      "Hongrie"
+    ],
+    "question": "Dans quel pays les guerres carlistes ont-elles eu lieu au XIXe siècle ?"
+  },
+  {
+    "good_answers": [
+      "Égypte"
+    ],
+    "bad_answers": [
+      "Pologne",
+      "Angleterre",
+      "France"
+    ],
+    "question": "Lequel de ces pays ne se trouve pas en Europe ?"
+  },
+  {
+    "good_answers": [
+      "Médecins"
+    ],
+    "bad_answers": [
+      "Enseignants",
+      "Fonctionnaires",
+      "Militaires"
+    ],
+    "question": "À quelle profession, créée en Grèce antique, appartient le serment d’Hippocrate ?"
+  },
+  {
+    "good_answers": [
+      "Pélage"
+    ],
+    "bad_answers": [
+      "Lancelot",
+      "Boadicée",
+      "Caius Marius"
+    ],
+    "question": "Qui a fondé le Royaume des Asturies ?"
+  },
+  {
+    "good_answers": [
+      "Artiodactyles"
+    ],
+    "bad_answers": [
+      "Dermoptères",
+      "Musaraignes à trompe",
+      "Carnivores"
+    ],
+    "question": "À quel ordre de mammifères appartiennent les suidés ?"
+  },
+  {
+    "good_answers": [
+      "Fusion"
+    ],
+    "bad_answers": [
+      "Biomasse",
+      "Fission",
+      "Géothermie"
+    ],
+    "question": "Par quel nom appelle-t-on le processus de combinaison d'atomes ?"
+  },
+  {
+    "good_answers": [
+      "Tome du savoir Nv. 3"
+    ],
+    "bad_answers": [
+      "Sculpture de lumière d'étoile neuve",
+      "Sculpture de Pélage",
+      "Sculpture de Lancelot",
+      "Sculpture dePélage — ,"
+    ],
+    "question": "Lequel des objets suivants ne se trouve PAS dans un coffre d'argent dans la taverne ?"
+  },
+  {
+    "good_answers": [
+      "En donnant à la recherche de technologies d’alliance",
+      "En donnant à la recherche de technologies d'alliance"
+    ],
+    "bad_answers": [
+      "En recueillant des ressources sur la carte du monde",
+      "En étendant le territoire de l’alliance",
+      "En attaquant les villes d’autres alliances",
+      "En étendant le territoire de l'alliance"
+    ],
+    "question": "Comment pouvez-vous gagner des crédits de technologie d’alliance ?"
+  },
+  {
+    "good_answers": [
+      "Fer"
+    ],
+    "bad_answers": [
+      "Pétrole",
+      "Eau",
+      "Granite"
+    ],
+    "question": "Laquelle de ces propositions est considérée comme une ressource métallique ?"
+  },
+  {
+    "good_answers": [
+      "Achille"
+    ],
+    "bad_answers": [
+      "Pâris",
+      "Darius le Grand",
+      "Priams"
+    ],
+    "question": "Pendant la guerre de Troie, quel guerrier grec a tué Hector ?"
+  },
+  {
+    "good_answers": [
+      "Richard 1er",
+      "Richard ler"
+    ],
+    "bad_answers": [
+      "Cao Cao",
+      "Jules César",
+      "Ethelfleda"
+    ],
+    "question": "Lequel des commandants suivants excelle-t-il au commandement d’infanterie ?"
+  },
+  {
+    "good_answers": [
+      "25"
+    ],
+    "bad_answers": [
+      "24",
+      "20",
+      "28"
+    ],
+    "question": "Quel est le plus haut niveau qu’un hôtel de ville peut atteindre dans RoK ?"
+  },
+  {
+    "good_answers": [
+      "Vêtements"
+    ],
+    "bad_answers": [
+      "Plantes",
+      "Lumière du soleil",
+      "Roche"
+    ],
+    "question": "Laquelle de ces propositions n'est pas une ressource naturelle ?"
+  },
+  {
+    "good_answers": [
+      "Artiodactyles"
+    ],
+    "bad_answers": [
+      "Musaraignes à trompe",
+      "Dermoptères",
+      "Carnivores"
+    ],
+    "question": "À quel ordre de mammiifères appartiennent les suidés ?"
+  },
+  {
+    "good_answers": [
+      "Une personne croyant en 1 dieu"
+    ],
+    "bad_answers": [
+      "Une personne mariée à 1 seule personne",
+      "Une personne mariée à de nombreuses personnes",
+      "Une personne croyant en de nombreux dieux"
+    ],
+    "question": "Laquelle de ces propositions décrit un monothéiste ?"
+  },
+  {
+    "good_answers": [
+      "Chameau"
+    ],
+    "bad_answers": [
+      "Cactus",
+      "Aigle",
+      "Serpent"
+    ],
+    "question": "Laquelle des propositions suivantes ne figure PAS sur le drapeau du Mexique ?"
+  },
+  {
+    "good_answers": [
+      "La culture classique"
+    ],
+    "bad_answers": [
+      "La vie (après la peste noire)",
+      "Le Moyen-Âge",
+      "La religion"
+    ],
+    "question": "La Renaissance était la « renaissance » de quoi exactement ?"
+  },
+  {
+    "good_answers": [
+      "Des rennes"
+    ],
+    "bad_answers": [
+      "Des licornes",
+      "Des huskies (chiens)",
+      "Des élans"
+    ],
+    "question": "Le Père Noël se déplace dans un traîneau tiré par quel animal ?"
+  },
+  {
+    "good_answers": [
+      "Opéra de Sydney"
+    ],
+    "bad_answers": [
+      "Université de Sydney",
+      "Harbour Bridge",
+      "Tour de Sydney"
+    ],
+    "question": "Quel monument de Sydney, en Australie, possède une forme de voilier ?"
+  },
+  {
+    "good_answers": [
+      "Cao Cao"
+    ],
+    "bad_answers": [
+      "Sun Zi",
+      "Ishida Mitsunari",
+      "Yi Seong-Gye"
+    ],
+    "question": "Quel commandant était surnommé le Conquérant du chaos ?"
+  },
+  {
+    "good_answers": [
+      "Un gladiateur"
+    ],
+    "bad_answers": [
+      "Un gardien",
+      "Un bâtisseur",
+      "Un soldat"
+    ],
+    "question": "Avant de diriger la plus grande rébellion esclave de la Rome ancienne, qu’a fait Spartacus en tant qu’esclave ?"
+  },
+  {
+    "good_answers": [
+      "Boadicée"
+    ],
+    "bad_answers": [
+      "Seondeok",
+      "Wu Zetian",
+      "Tomyris"
+    ],
+    "question": "Quel commandant était connu sous le nom de Rose celtique ?"
+  },
+  {
+    "good_answers": [
+      "Cavalerie"
+    ],
+    "bad_answers": [
+      "Unités de siège",
+      "Infanterie",
+      "Barbares"
+    ],
+    "question": "Quel type d’unité est-il fort contre les archers ?"
+  },
+  {
+    "good_answers": [
+      "Séismes"
+    ],
+    "bad_answers": [
+      "Tornades",
+      "Tsunami",
+      "Ouragans"
+    ],
+    "question": "Quel type de catastrophe naturelle est mesuré avec l'échelle de Richter ?"
+  },
+  {
+    "good_answers": [
+      "Cléopâtre VII"
+    ],
+    "bad_answers": [
+      "Tomyris",
+      "Wu Zetian",
+      "Seondeok"
+    ],
+    "question": "Qui fut la dernière pharaonne de la dynastie lagide (ptolémaïque) ?"
+  },
+  {
+    "good_answers": [
+      "La Cène, Mona Lisa"
+    ],
+    "bad_answers": [
+      "David, Chapelle Sixtine",
+      "Mona Lisa, Chapelle Sixtine",
+      "Héliodore chassé du temple, L’École d'Athènes",
+      "Héyliodore chassé du temple, L’École d'Athènes",
+      "Hé}iodore chassé du temple, L’École d'Athènes",
+      "Hé}liodore chassé du temple, L’École d'Athènes",
+      "Hé)liodore chassé du temple, L’École d'Athènes"
+    ],
+    "question": "Parmi les propositions suivantes, laquelle désigne deux œuvres de Léonard de Vinci ?"
+  },
+  {
+    "good_answers": [
+      "1000"
+    ],
+    "bad_answers": [
+      "900",
+      "1200",
+      "1100"
+    ],
+    "question": "Sans utiliser de bonus, combien de points d’action un gouverneur peut-il avoir ?"
+  },
+  {
+    "good_answers": [
+      "Énergie géothermique"
+    ],
+    "bad_answers": [
+      "Énergie hydroélectrique",
+      "Biomasse",
+      "Énergie nucléaire"
+    ],
+    "question": "Laquelle des propositions suivantes est une ressource énergétique inépuisable reposant sur le magma chaud ou la roche chaude et sèche se trouvant en dessous ?"
+  },
+  {
+    "good_answers": [
+      "États-Unis"
+    ],
+    "bad_answers": [
+      "Royaume-Uni",
+      "France",
+      "Italie"
+    ],
+    "question": "Dans quel pays la climatisation a-t-elle été inventée ?"
+  },
+  {
+    "good_answers": [
+      "Yi Seong-Gye"
+    ],
+    "bad_answers": [
+      "Mehmed Il",
+      "Frédéric 1er",
+      "Seondeok",
+      "Mehmed |l",
+      "Mehmed !l",
+      "Frédéric 1ler",
+      "Mehmed !!",
+      "Frédéric ler"
+    ],
+    "question": "Lequel des commandants suivants excelle-t-il au commandement d’archers ?"
+  },
+  {
+    "good_answers": [
+      "Descartes"
+    ],
+    "bad_answers": [
+      "Zénon d’Élée",
+      "Pythagore",
+      "Thalès",
+      "Zénon d'Élée"
+    ],
+    "question": "Qui a proposé l'idée philosophique du « je pense, donc je suis » ?"
+  },
+  {
+    "good_answers": [
+      "Commandement d’unités d’archerie",
+      "Commandement d'unités d’archerie",
+      "Commandement d’unités d'archerie"
+    ],
+    "bad_answers": [
+      "Attaque de villes",
+      "Récolte de ressources",
+      "Élimination de barbares"
+    ],
+    "question": "Dans quel domaine le commandant Hermann le Chérusque est-il doué ?"
+  },
+  {
+    "good_answers": [
+      "Cao Cao"
+    ],
+    "bad_answers": [
+      "Minamoto no Yoshitsune",
+      "Sun Zi",
+      "Wu Zetian"
+    ],
+    "question": "Lequel des commandants suivants a-t-il pris part à la bataille de la Falaise rouge ?"
+  },
+  {
+    "good_answers": [
+      "Augmentation du pouvoir de l’Église",
+      "Augmentation du pouvoir de l'Église",
+      "Augmentation du pouvoir de l’Eglise"
+    ],
+    "bad_answers": [
+      "Livres moins coûteux",
+      "Amélioration de l’éducation/l’alphabétisme",
+      "Diffusion rapide des idées",
+      "Amélioration de l’éducation/l'alphabétisme",
+      "Amélioration de l'éducation/l’alphabétisme",
+      "Amélioration de l‘éducation/l’alphabétisme"
+    ],
+    "question": "Les avantages de la presse d’imprimerie de Johannes Gutenberg comprennent tous les éléments suivants sauf lequel ?"
+  },
+  {
+    "good_answers": [
+      "Charles ler"
+    ],
+    "bad_answers": [
+      "Constantin 1er",
+      "Henry VI",
+      "Jules César",
+      "Constantin ler"
+    ],
+    "question": "Qui fut le seul roi d’Angleterre à être exécuté ?"
+  },
+  {
+    "good_answers": [
+      "Auguste"
+    ],
+    "bad_answers": [
+      "Constantin ler",
+      "Jules César",
+      "Constantin Il",
+      "Constantin !l",
+      "Constantin |l",
+      "Constantin ll",
+      "Constantin 1er"
+    ],
+    "question": "Qui fut le premier empereur de Rome ?"
+  },
+  {
+    "good_answers": [
+      "Attaque de villes"
+    ],
+    "bad_answers": [
+      "Commandement d’unités de cavalerie",
+      "Commandement d’unités d’archerie",
+      "Commandement d’unités d’infanterie",
+      "Commandement d'unités d’infanterie",
+      "Commandement d'unités d’archerie",
+      "Commandement d’unités d'infanterie",
+      "Commandement d’unités d'archerie"
+    ],
+    "question": "Dans quel domaine le commandant Hannibal Barca est-il doué ?"
+  },
+  {
+    "good_answers": [
+      "Tomate"
+    ],
+    "bad_answers": [
+      "Kiwi",
+      "Litchi",
+      "Carambole"
+    ],
+    "question": "Lequel des fruits suivants, connu sous le nom de « pêche du loup », a été considéré à tort comme toxique?"
+  },
+  {
+    "good_answers": [
+      "La peste noire n'a pas touché l'Italie, protégée par les Alpes",
+      "* La peste noire n'a pas touché l'Italie, protégée par les Alpes",
+      "La peste noire n'a l'Italie, protégée pa"
+    ],
+    "bad_answers": [
+      "La diffusion culturelle a encouragé la curiosité et la popularisation des idées arabes et africaines",
+      "De riches commanditaires italiens soutenaient les arts",
+      "Un intérêt renouvelé dans les cultures de la Grèce antique et de Rome",
+      "De riches commandi “ italiens soutenaient . 40",
+      "De riches commanditaires* italiens soutenaient les arts"
+    ],
+    "question": "Laquelle de ces propositions n'est pas une raison pour laquelle la Renaissance a commencé en Italie ?"
+  },
+  {
+    "good_answers": [
+      "Achille ; une flèche à travers son talon"
+    ],
+    "bad_answers": [
+      "Patrocle ; une flèche à travers son épaule",
+      "Agamemnon ; une flèche à travers son talon",
+      "Priam ; une flèche à travers son épaule"
+    ],
+    "question": "Qui a tué Hector et comment Achille meurt-il ?"
+  },
+  {
+    "good_answers": [
+      "Attaque de villes"
+    ],
+    "bad_answers": [
+      "Commandement de garnisons de ville",
+      "Élimination de barbares",
+      "Récolte de ressources"
+    ],
+    "question": "Dans quel domaine le commandant Osman | est-il doué ?"
+  },
+  {
+    "good_answers": [
+      "Une grande partie de l'Inde"
+    ],
+    "bad_answers": [
+      "L'Afrique de l'Ouest",
+      "Anatolie",
+      "L'Europe occidentale"
+    ],
+    "question": "Où l'Empire moghol a-t-il apporté l'islam ?"
+  },
+  {
+    "good_answers": [
+      "Le château de Versailles"
+    ],
+    "bad_answers": [
+      "Le Kremlin",
+      "Le château de Fontainebleau",
+      "L’Élysée",
+      "L'Élysée"
+    ],
+    "question": "Où le roi Louis XIV de France a-t-il déplacé la Cour royale en 1682 ?"
+  },
+  {
+    "good_answers": [
+      "Lohar"
+    ],
+    "bad_answers": [
+      "Särka",
+      "Caius Marius",
+      "Le Cid",
+      "Sârka",
+      "Sérka"
+    ],
+    "question": "Quel commandant était surnommé le Barbare rugissant ?"
+  },
+  {
+    "good_answers": [
+      "Minamoto no Yoshitsune"
+    ],
+    "bad_answers": [
+      "Sun Zi",
+      "Le Cid",
+      "Charles Martel"
+    ],
+    "question": "Lequel des commandants suivants excelle-t-il au commandement de cavalerie ?"
+  },
+  {
+    "good_answers": [
+      "One Piece",
+      "OnePiece"
+    ],
+    "bad_answers": [
+      "Doraemon",
+      "Gin Tama",
+      "Détective Conan"
+    ],
+    "question": "Dans le Livre Guinness des records, quelle œuvre est considérée comme celle ayant connu la plus grande distribution cumulée pour un même auteur ?"
+  },
+  {
+    "good_answers": [
+      "Le Sénat"
+    ],
+    "bad_answers": [
+      "L’Aristocratie",
+      "Les comices centuriates",
+      "Les comices curiates"
+    ],
+    "question": "Après sa fondation au 6e siècle av. J.-C., quelle institution de la République romaine servait de parlement consultatif ?"
+  },
+  {
+    "good_answers": [
+      "4"
+    ],
+    "bad_answers": [
+      "6",
+      "5",
+      "3"
+    ],
+    "question": "Quand l’hôtel de ville d’un gouverneur atteint le niveau 25, combien de fermes peut-il construire ?"
+  },
+  {
+    "good_answers": [
+      "Charles Martel"
+    ],
+    "bad_answers": [
+      "Richard 1er",
+      "Le Cid",
+      "Scipion",
+      "Richard ler"
+    ],
+    "question": "Quel commandant a prouvé son génie militaire lors de la Bataille de Tours au 8e siècle apr. J.-C. ?"
+  },
+  {
+    "good_answers": [
+      "Cirque du Soleil"
+    ],
+    "bad_answers": [
+      "Cirque du Lunaire",
+      "Cirque des Étoiles",
+      "Cirque d'Or"
+    ],
+    "question": "Quel groupe artistique est connu pour faire partie du « patrimoine national » du Canada ?"
+  },
+  {
+    "good_answers": [
+      "Aristote"
+    ],
+    "bad_answers": [
+      "Archimède",
+      "Platon",
+      "Socrate"
+    ],
+    "question": "L'expérience de la tour inclinée de Pise de Galilée a invalidé une théorie de quel scientifique de la Grèce antique ?"
+  },
+  {
+    "good_answers": [
+      "Agriculture"
+    ],
+    "bad_answers": [
+      "Développement urbain",
+      "Exploitation minière",
+      "Machinerie"
+    ],
+    "question": "Sur quoi reposait essentiellement l'économie de l'Égypte ?"
+  },
+  {
+    "good_answers": [
+      "Photosphère"
+    ],
+    "bad_answers": [
+      "Chronosphère",
+      "Couronne solaire",
+      "Boule de feu"
+    ],
+    "question": "Dans des circonstances normales, quelle couche du soleil pouvons-nous voir à l'œil nu?"
+  },
+  {
+    "good_answers": [
+      "Père et fils"
+    ],
+    "bad_answers": [
+      "Mère et fils",
+      "Frères",
+      "Sœurs"
+    ],
+    "question": "Dans la mythologie grecque, quelle est la relation entre Zeus et Hermès ?"
+  },
+  {
+    "good_answers": [
+      "Carthage"
+    ],
+    "bad_answers": [
+      "Rome ancienne",
+      "Égypte ancienne",
+      "Grèce antique"
+    ],
+    "question": "Les guerres puniques ont vu s'affronter la Rome ancienne et quel autre empire ancien ?"
+  },
+  {
+    "good_answers": [
+      "Énergie hydroélectrique"
+    ],
+    "bad_answers": [
+      "Énergie éolienne",
+      "Biomasse",
+      "Énergie géothermique"
+    ],
+    "question": "Quel est le nom de l'électricité produite par l'énergie de l'eau au moyen de grands barrages ?"
+  },
+  {
+    "good_answers": [
+      "Sydney"
+    ],
+    "bad_answers": [
+      "Berlin",
+      "Istanbul",
+      "Pékin"
+    ],
+    "question": "Quelle ville a accueilli les Jeux olympiques d’été 2000 ?"
+  },
+  {
+    "good_answers": [
+      "Sun Zi"
+    ],
+    "bad_answers": [
+      "Cao Cao",
+      "Jules César",
+      "Genghis Khan"
+    ],
+    "question": "Qui a écrit l’Art de la guerre ?"
+  },
+  {
+    "good_answers": [
+      "La Glorieuse Révolution"
+    ],
+    "bad_answers": [
+      "La guerre internationale allemande",
+      "La Réforme",
+      "La Révolution française"
+    ],
+    "question": "Quel est le nom de la révolution de 1688 qui a instauré la monarchie constitutionnelle britannique ?"
+  },
+  {
+    "good_answers": [
+      "Napoléon Bonaparte"
+    ],
+    "bad_answers": [
+      "Frédéric IIl",
+      "Joseph Bonaparte",
+      "Louis Bonaparte"
+    ],
+    "question": "Qui fut l/’empereur du Premier Empire français ?"
+  },
+  {
+    "good_answers": [
+      "Intérêt dans la religion et la réforme sociale"
+    ],
+    "bad_answers": [
+      "Intérêt dans la cause de la peste noire",
+      "Intérêt dans la presse d’imprimerie",
+      "Intérêt dans les arts"
+    ],
+    "question": "Les humanistes du Nord comme Érasme étaient principalement connus pour quoi ?"
+  },
+  {
+    "good_answers": [
+      "Maurya"
+    ],
+    "bad_answers": [
+      "Kushan",
+      "Mughal",
+      "Gupta"
+    ],
+    "question": "Ashoka le Grand était le roi de quel royaume indien ancien ?"
+  },
+  {
+    "good_answers": [
+      "Commandement d’unités de cavalerie",
+      "Commandement d'unités de cavalerie"
+    ],
+    "bad_answers": [
+      "Récolte de ressources",
+      "Attaque de villes",
+      "Commandement d’unités d’infanterie",
+      "Commandement d'unités d’infanterie",
+      "Commandement d'unités d'infanterie"
+    ],
+    "question": "Dans quel domaine le commandant Lancelot est-il doué ?"
+  },
+  {
+    "good_answers": [
+      "Colonel"
+    ],
+    "bad_answers": [
+      "Lieutenant",
+      "Capitaine",
+      "Major"
+    ],
+    "question": "Quel était le titre honoraire du fondateur de Kentucky Fried Chicken (KFC) ?"
+  },
+  {
+    "good_answers": [
+      "Sélection naturelle"
+    ],
+    "bad_answers": [
+      "Homéostasie",
+      "Reproduction sélective",
+      "Extinction"
+    ],
+    "question": "Quel est le nom du phénomène par lequel les organismes qui sont mieux adaptés à l'environnement survivent et transmettent leurs traits à leur descendance ?"
+  },
+  {
+    "good_answers": [
+      "Nautilus"
+    ],
+    "bad_answers": [
+      "Grand cachalot",
+      "Étoile de mer",
+      "Corail"
+    ],
+    "question": "Laquelle des espèces marines suivantes a existé le plus longtemps ?"
+  },
+  {
+    "good_answers": [
+      "Frédéric 1er",
+      "Frédéric ler"
+    ],
+    "bad_answers": [
+      "Hermann le Chérusque",
+      "Le Cid",
+      "Lohar"
+    ],
+    "question": "Quel commandant est-il connu sous le nom de Barberousse ?"
+  },
+  {
+    "good_answers": [
+      "La guerre de Troie"
+    ],
+    "bad_answers": [
+      "La bataille de Salamine",
+      "La bataille des Thermopyles",
+      "La bataille d'Éphèse"
+    ],
+    "question": "« L’Iliade » épique d’Homer se penche sur les événements survenus lors de quelle guerre ou bataille ?"
+  },
+  {
+    "good_answers": [
+      "Archers"
+    ],
+    "bad_answers": [
+      "Cavalerie",
+      "Unités de siège",
+      "Barbares"
+    ],
+    "question": "Quel type d’unité est-il fort contre l’infanterie ?"
+  },
+  {
+    "good_answers": [
+      "Ethelfleda"
+    ],
+    "bad_answers": [
+      "Jeanne d'Arc",
+      "Constance",
+      "Cléopâtre VII"
+    ],
+    "question": "Quelle commandante était surnommée la Dame des Merciens ?"
+  },
+  {
+    "good_answers": [
+      "Infanterie"
+    ],
+    "bad_answers": [
+      "Archers",
+      "Unités de siège",
+      "Barbares"
+    ],
+    "question": "Quel type d’unité est-il fort contre la cavalerie ?"
+  },
+  {
+    "good_answers": [
+      "Pierre de Coubertin"
+    ],
+    "bad_answers": [
+      "Juan Antonio Samaranch",
+      "Michael Morris, 3e baron Killanin",
+      "Demetrios Vikelas"
+    ],
+    "question": "Qui est considéré comme le « Père des Jeux olympiques modernes » ?"
+  },
+  {
+    "good_answers": [
+      "Commandement de garnisons de ville"
+    ],
+    "bad_answers": [
+      "Attaque de villes",
+      "Élimination de barbares",
+      "Récolte de ressources"
+    ],
+    "question": "Dans quel domaine le commandant Sun Zi est-il doué ?"
+  },
+  {
+    "good_answers": [
+      "Œil"
+    ],
+    "bad_answers": [
+      "Milieu",
+      "Centre",
+      "Mur"
+    ],
+    "question": "Comment appelle-t-on le centre d'un ouragan ?"
+  },
+  {
+    "good_answers": [
+      "Le Crystal Palace"
+    ],
+    "bad_answers": [
+      "Le Palais des Nations",
+      "Le Centre national de natation",
+      "Le Palace of Fine Arts"
+    ],
+    "question": "Quel bâtiment a été construit à l’origine à Londres pour abriter la grande exposition des œuvres de l’industrie de toutes les nations qui s’est tenue en 1851 ?"
+  },
+  {
+    "good_answers": [
+      "Augmentation de l'EXP obtenue par les commandants",
+      "Augmentation de l’EXP obtenue par les commandants"
+    ],
+    "bad_answers": [
+      "Augmentation de la santé des troupes",
+      "Augmentation de la vitesse de recherche",
+      "Augmentation de la vitesse de marche"
+    ],
+    "question": "Quel bonus peut être obtenu en occupant un Sanctuaire du courage ?"
+  },
+  {
+    "good_answers": [
+      "Minamoto no Yoritomo"
+    ],
+    "bad_answers": [
+      "Minamoto no Yoshitomo",
+      "Minamoto no Yorinobu",
+      "Minamoto no Yoshimitsu"
+    ],
+    "question": "Avec qui Minamoto no Yoshitsune a-t-il levé une armée pour combattre Taira no Kiyomori ?"
+  },
+  {
+    "good_answers": [
+      "Rat"
+    ],
+    "bad_answers": [
+      "Dragon",
+      "Chien",
+      "Singe"
+    ],
+    "question": "Lequel des 12 animaux du zodiaque chinois est le premier ?"
+  },
+  {
+    "good_answers": [
+      "Donner des ressources aux alliés"
+    ],
+    "bad_answers": [
+      "Contribuer à construire des bâtiments d'alliance",
+      "Faire une donation de technologie d’alliance",
+      "Aider des alliés",
+      "Contribuer à construire des bâtiments d'’alliance",
+      "Contribuer à construire des bâtiments d’alliance",
+      "Faire une donation de technologie d'alliance"
+    ],
+    "question": "Laquelle des propositions suivantes n’octroie pas de points individuels ?"
+  },
+  {
+    "good_answers": [
+      "Socrate"
+    ],
+    "bad_answers": [
+      "Euclide",
+      "Montesquieu",
+      "Périclès"
+    ],
+    "question": "Les « Trois grands philosophes » de la Grèce antique étaient Platon, Aristote, et…?"
+  },
+  {
+    "good_answers": [
+      "1192"
+    ],
+    "bad_answers": [
+      "1286",
+      "1360",
+      "1083"
+    ],
+    "question": "En quelle année Richard Cœur de lion et Saladin ont-ils signé une trêve ?"
+  },
+  {
+    "good_answers": [
+      "Le roi sans couronne"
+    ],
+    "bad_answers": [
+      "Saint seigneur",
+      "Bouclier du peuple",
+      "Pionnier impérial"
+    ],
+    "question": "Quel est le surnom de Jules César ?"
+  },
+  {
+    "good_answers": [
+      "1776"
+    ],
+    "bad_answers": [
+      "1786",
+      "1779",
+      "1770"
+    ],
+    "question": "Quand la Déclaration d'Indépendance a-t-elle été écrite ?"
+  },
+  {
+    "good_answers": [
+      "Hector"
+    ],
+    "bad_answers": [
+      "Agamemnon",
+      "Ulysse",
+      "Achille"
+    ],
+    "question": "Quand Achille refuse le combat, Patrocle met l'armure d'Achille, combat les Troyens et meurt. Qui a tué Patrocle ?"
+  },
+  {
+    "good_answers": [
+      "Les jardins suspendus"
+    ],
+    "bad_answers": [
+      "La Grande Muraille",
+      "Les pyramides",
+      "Le Sphinx"
+    ],
+    "question": "Laquelle des sept merveilles du monde a été créée pour guérir la dépression de la nouvelle reine de Babylone ?"
+  },
+  {
+    "good_answers": [
+      "Gaius Octavius"
+    ],
+    "bad_answers": [
+      "Constantin Il",
+      "Constantin ler",
+      "Jules César",
+      "Constantin !l",
+      "Constantin |l"
+    ],
+    "question": "Quel empereur romain a été nommé Auguste après avoir mis fin à une guerre civile ?"
+  },
+  {
+    "good_answers": [
+      "Vienne"
+    ],
+    "bad_answers": [
+      "Debrecen",
+      "Berlin",
+      "Miskolc"
+    ],
+    "question": "Les deux capitales de l’Autriche-Hongrie étaient Budapest et quelle autre ville ?"
+  },
+  {
+    "good_answers": [
+      "Jules César"
+    ],
+    "bad_answers": [
+      "Seondeok",
+      "Kusunoki Masashige",
+      "Guan Yu"
+    ],
+    "question": "Qui a mis en œuvre le calendrier julien pour la première fois à Rome ?"
+  },
+  {
+    "good_answers": [
+      "Commandement d'unités de cavalerie",
+      "Commandement d’unités de cavalerie",
+      "Commandement d’unités de cavalerie ."
+    ],
+    "bad_answers": [
+      "Commandement d’unités d’infanterie",
+      "Commandement d’unités d’archerie",
+      "Récolte de ressources",
+      "Commandemert d’u d’archerie » - ;",
+      "Commandement d'unités d’infanterie",
+      "Commandemertt d’u d’archerie - - '",
+      "Commandement d’unités d'infanterie",
+      "Commandement d’unités d'archerie"
+    ],
+    "question": "Dans quel domaine le commandant Baybars est-il doué ?"
+  },
+  {
+    "good_answers": [
+      "Biomasse"
+    ],
+    "bad_answers": [
+      "Énergie géothermique",
+      "Nucléaire",
+      "Énergie hydroélectrique"
+    ],
+    "question": "Quel est le nom de l'énergie renouvelable dérivée de la combustion de matériaux organiques comme le bois ou l'alcool ?"
+  },
+  {
+    "good_answers": [
+      "Professeur Moriarty"
+    ],
+    "bad_answers": [
+      "Jonathan Smaller",
+      "Irene Adler",
+      "Jefferson Hope"
+    ],
+    "question": "Qui était surnommé le « Napoléon du crime » dans certaines histoires de Sherlock Holmes ?"
+  },
+  {
+    "good_answers": [
+      "Minamoto no Yoshitsune"
+    ],
+    "bad_answers": [
+      "Lancelot",
+      "Osman |",
+      "Hannibal Barca"
+    ],
+    "question": "Quel commandant est-il connu pour être le seigneur de guerre de Kamakura ?"
+  },
+  {
+    "good_answers": [
+      "Jupiter"
+    ],
+    "bad_answers": [
+      "Vénus",
+      "Mercure",
+      "Pluton"
+    ],
+    "question": "Quelle planète de notre système solaire tourne-t-elle le plus vite ?"
+  },
+  {
+    "good_answers": [
+      "L’Empire byzantin",
+      "L'Empire byzantin"
+    ],
+    "bad_answers": [
+      "L'Empire ottoman",
+      "L’empire germanique",
+      "L’empire des Séfévides",
+      "L’Empire ottoman"
+    ],
+    "question": "Lequel de ces empires était également connu sous le nom d’Empire romain d’Orient ?"
+  },
+  {
+    "good_answers": [
+      "Sparte"
+    ],
+    "bad_answers": [
+      "Athènes",
+      "Corinthe",
+      "Olympie"
+    ],
+    "question": "Quelle cité-État de la Grèce antique était connue pour son entraînement militaire brutal et sa bravoure ?"
+  },
+  {
+    "good_answers": [
+      "Régner avec une force absolue"
+    ],
+    "bad_answers": [
+      "Inégalable parmi les mortels",
+      "Un monde d’arts martiaux",
+      "Guan Yu est la vie",
+      "Un monde d'arts martiaux"
+    ],
+    "question": "Quelle était la devise d’Oda Nobunaga ?"
+  },
+  {
+    "good_answers": [
+      "Améliorer la tour de guet"
+    ],
+    "bad_answers": [
+      "Améliorer la réserve",
+      "Améliorer le mur",
+      "Améliorer l’hôpital",
+      "Améliorer l'hôpital"
+    ],
+    "question": "À quoi servent les Flèches de résistance ?"
+  },
+  {
+    "good_answers": [
+      "Le Taj Mahal"
+    ],
+    "bad_answers": [
+      "Forteresse ambre %£",
+      "Les jardins suspendus",
+      "Le temple Akshardham",
+      "Forteresse ambre"
+    ],
+    "question": "Lequel des bâtiments suivants a été construit sur ordre de Shah Jahan en hommage à son épouse Mumtaz Mahal ?"
+  },
+  {
+    "good_answers": [
+      "Constantinople"
+    ],
+    "bad_answers": [
+      "Édessa",
+      "Jérusalem",
+      "Antioch , \" ; +",
+      "Antioch"
+    ],
+    "question": "Où se trouvait le point de rassemblement pour la première Croisade ?"
+  },
+  {
+    "good_answers": [
+      "À la fois de mutations et de la recombinaison génétique"
+    ],
+    "bad_answers": [
+      "Des mutations qui donnent à un organisme un avantage dans son environnement",
+      "De la recombinaison génétique lors de la méiose",
+      "De la décision d'un organisme individuel de s'adapter"
+    ],
+    "question": "D'où proviennent les adaptations ?"
+  },
+  {
+    "good_answers": [
+      "Commandement d'unités d’infanterie"
+    ],
+    "bad_answers": [
+      "Récolte de ressources",
+      "Attaque de villes",
+      "Élimination de barbares"
+    ],
+    "question": "Dans quel domaine le commandant Eulji Mundeok est-il doué ?"
+  },
+  {
+    "good_answers": [
+      "Art plat/bidimensionnel"
+    ],
+    "bad_answers": [
+      "Perspective",
+      "Art réaliste/tridimensionnel",
+      "Incorporation de la nature"
+    ],
+    "question": "Laquelle de ces propositions n'est pas une caractéristique de l'art de la Renaissance ?"
+  },
+  {
+    "good_answers": [
+      "Italie"
+    ],
+    "bad_answers": [
+      "Allemagne",
+      "France",
+      "Angleterre"
+    ],
+    "question": "Où la Renaissance a-t-elle commencé ?"
+  },
+  {
+    "good_answers": [
+      "Le pharaon"
+    ],
+    "bad_answers": [
+      "Les esclaves",
+      "Le vizir",
+      "Les prêtes"
+    ],
+    "question": "Qui possédait tout dans les anciens royaumes égyptiens ?"
+  },
+  {
+    "good_answers": [
+      "Cléopâtre VII"
+    ],
+    "bad_answers": [
+      "Tomoe Gozen",
+      "Constantin ler",
+      "Saladin"
+    ],
+    "question": "Lequel des commandants suivants excelle-t-il à la récolte de ressources ?"
+  },
+  {
+    "good_answers": [
+      "Papyrus"
+    ],
+    "bad_answers": [
+      "Grain",
+      "Maïs",
+      "Laine de mouton"
+    ],
+    "question": "Les Égyptiens produisaient du papier à partir de quel matériau ?"
+  },
+  {
+    "good_answers": [
+      "Groënland"
+    ],
+    "bad_answers": [
+      "Bornéo",
+      "Sumatra",
+      "Nouvelle-Guinée"
+    ],
+    "question": "Laquelle des îles suivantes est la plus grande îÎle du monde ?"
+  },
+  {
+    "good_answers": [
+      "Groëniand '"
+    ],
+    "bad_answers": [
+      "Bornéo",
+      "—— Sumatra",
+      "Nouvelle-Guinée"
+    ],
+    "question": "Laquelle des Îles suivantes est la plus grande Île du monde ?"
+  },
+  {
+    "good_answers": [
+      "Le leader de l’alliance qui conquiert le Temple perdu",
+      "Le leader de l'alliance qui conquiert le Temple perdu"
+    ],
+    "bad_answers": [
+      "Le leader de l'alliance avec le meilleur classement en puissance",
+      "Le gouverneur avec le plus de mises à mort dans le royaume",
+      "Le gouverneur avec le meilleur classement de puissance dans le royaume",
+      "Le leader de l’alliance avec le meilleur classement en puissance"
+    ],
+    "question": "Qui est le Roi du Royaume ?"
+  },
+  {
+    "good_answers": [
+      "La guerre de Cent Ans",
+      "La guerre des Deux-Roses"
+    ],
+    "bad_answers": [
+      "La guerre de Troie",
+      "La bataille des Thermopyles",
+      "Un jeton de vie a été utilisé pour La guerre de Cent Ans",
+      "amener àlavie ! _ La guerre de Troie"
+    ],
+    "question": "Quelle guerre a mis fin au règne de la maison Plantagenêt et marqué le début du règne des Tudor en Angleterre ?"
+  },
+  {
+    "good_answers": [
+      "Gaz naturel"
+    ],
+    "bad_answers": [
+      "Charbon",
+      "Bois",
+      "Pétrole"
+    ],
+    "question": "Laquelle de ces propositions est un combustible fossile venant d'organismes marins, se trouvant souvent dans des poches repliées ou inclinées, et servant pour le chauffage et la cuisine ?"
+  },
+  {
+    "good_answers": [
+      "Gabriel Garcia Mâärquez",
+      "Gabriel Garcfa Märquez",
+      "Gabriel Garcia Märquez"
+    ],
+    "bad_answers": [
+      "Peter Handke",
+      "Bob Dylan",
+      "Ernest Hemingway"
+    ],
+    "question": "Qui est l'auteur de l'autobiographie « Vivre pour la raconter », qui lui vaudra le prix Nobel de littérature ?"
+  },
+  {
+    "good_answers": [
+      "La Terre se déplace directement entre le soleil et la lune"
+    ],
+    "bad_answers": [
+      "Un météore se déplace entre le soleil et la Terre",
+      "Rien de ce qui précède",
+      "La lune se déplace directement entre le soleil et la Terre",
+      "Aucune de ces réponses n'est correcte"
+    ],
+    "question": "Qu'’est-ce qui cause les éclipses lunaires ?"
+  },
+  {
+    "good_answers": [
+      "Les riches commanditaires"
+    ],
+    "bad_answers": [
+      "Le gouvernement",
+      "Le clergé",
+      "Les rois en quête de prestige"
+    ],
+    "question": "Qui a fourni l'essentiel du soutien économique de la Renaissance ?"
+  },
+  {
+    "good_answers": [
+      "Yi Seong-Gye"
+    ],
+    "bad_answers": [
+      "Cao Cao",
+      "Seondeok",
+      "Yi Sun-sin"
+    ],
+    "question": "Qui a fondé la dynastie Joseon ?"
+  },
+  {
+    "good_answers": [
+      "lode"
+    ],
+    "bad_answers": [
+      "Zinc",
+      "Sodium",
+      "Fer"
+    ],
+    "question": "Un apport insuffisant de quel élément peut provoquer la thyréomégalie ?"
+  },
+  {
+    "good_answers": [
+      "Hannibal Barca"
+    ],
+    "bad_answers": [
+      "Tomoe Gozen",
+      "Constantin ler",
+      "Lohar"
+    ],
+    "question": "Quel commandant est surnommé le Gardien de Carthage ?"
+  },
+  {
+    "good_answers": [
+      "Napoléon Bonaparte"
+    ],
+    "bad_answers": [
+      "Louis Bonaparte",
+      "Frédéric IHl",
+      "Joseph Bonaparte",
+      "Frédéric IIl"
+    ],
+    "question": "Qui fut l’empereur du Premier Empire français ?"
+  },
+  {
+    "good_answers": [
+      "Mohandas Karamchand Gandhi"
+    ],
+    "bad_answers": [
+      "Robindronath Thakur",
+      "Ashoka le Grand",
+      "Akbar le Grand"
+    ],
+    "question": "À qui l’Inde a-t-elle donné le titre de « Mahatma » ?"
+  },
+  {
+    "good_answers": [
+      "20"
+    ],
+    "bad_answers": [
+      "22",
+      "21",
+      "19"
+    ],
+    "question": "Combien de fois le caractère « 1 » est-il utilisé lorsque vous écrivez tous les nombres de1 à 99?"
+  },
+  {
+    "good_answers": [
+      "Vikings"
+    ],
+    "bad_answers": [
+      "Guerriers à peau d’ours",
+      "Barbares",
+      "Normands"
+    ],
+    "question": "Du 8 au 11e siècle apr. J.-C., comment les Européens appelaient fréquemment les envahisseurs scandinaves qui ravageaient fréquemment leurs terres ?"
+  },
+  {
+    "good_answers": [
+      "C'était le lieu de naissance et le symbole de la Renaissance"
+    ],
+    "bad_answers": [
+      "C'était le lieu de naissance de Michel-Ange",
+      "C'était le dernier endroit touché par la peste noire",
+      "C'était là où les plus grands artistes et sculpteurs se trouvaient"
+    ],
+    "question": "Pendant la Renaissance, pourquoi Florence était-elle importante ?"
+  },
+  {
+    "good_answers": [
+      "Car ils sont plus susceptibles de permettre la survie et la reproduction.",
+      "Car ls sont plus susceptibles de permettre la survie et la reproduction."
+    ],
+    "bad_answers": [
+      "Car ils viennent d'allèles dominants.",
+      "Car l'organisme sait qu'il a besoin de ce trait, survit et le transmet.",
+      "Car ils viennent d'allèles récessifs."
+    ],
+    "question": "Pourquoi les traits avantageux sont-ils plus susceptibles d'être transmis à la descendance ?"
+  },
+  {
+    "good_answers": [
+      "Élimination d’ennemis"
+    ],
+    "bad_answers": [
+      "Récolter des ressources en ville",
+      "Recrutement de commandant",
+      "Traitement des blessés"
+    ],
+    "question": "Laquelle des propositions suivantes est une phase de l’événement Le plus grand gouverneur ?"
+  },
+  {
+    "good_answers": [
+      "Pétrole"
+    ],
+    "bad_answers": [
+      "Gaz naturel",
+      "Maïs",
+      "Charbon"
+    ],
+    "question": "Laquelle de ces propositions est un combustible fossile liquide formé d'organismes marins et brûlé pour obtenir de l'énergie ou fabriquer des biens en plastique ?"
+  },
+  {
+    "good_answers": [
+      "La guerre des Deux-Roses"
+    ],
+    "bad_answers": [
+      "La guerre de Cent Ans",
+      "La bataille des Thermopyles",
+      "La guerre de Troie"
+    ],
+    "question": "Quelle guerre a opposé les maisons britanniques de Lancaster et York pour le trône d’Angleterre ?"
+  },
+  {
+    "good_answers": [
+      "Aphrodite"
+    ],
+    "bad_answers": [
+      "Hélène",
+      "Héra",
+      "Artémis"
+    ],
+    "question": "Dans la mythologie grecque, à qui Pâris, le Prince de Troie, a-t-il donné une pomme dorée avec inscrit dessus « À la plus belle des déesses » ?"
+  },
+  {
+    "good_answers": [
+      "France"
+    ],
+    "bad_answers": [
+      "Allemagne",
+      "Danemark",
+      "Royaume-Uni"
+    ],
+    "question": "Quel pays a offert la Statue de la Liberté au peuple américain en cadeau ?"
+  },
+  {
+    "good_answers": [
+      "Ses talons"
+    ],
+    "bad_answers": [
+      "Ses poignets",
+      "Ses genoux",
+      "Ses yeux"
+    ],
+    "question": "Dans la mythologie grecque, quel était le seul point faible d’Achille ?"
+  },
+  {
+    "good_answers": [
+      "En mer ouverte"
+    ],
+    "bad_answers": [
+      "Dans les déserts",
+      "Près de la terre ferme",
+      "Dans les chaînes de montagnes"
+    ],
+    "question": "Où la plupart des ouragans se forment-ils ?"
+  },
+  {
+    "good_answers": [
+      "Le Caméléon rouge"
+    ],
+    "bad_answers": [
+      "Hydromel de la mort",
+      "Seigneur sans égal",
+      "Beauté du soleil tombant",
+      "Beauté du soleiltombant"
+    ],
+    "question": "Quel est le surnom de Keira, la championne ?"
+  },
+  {
+    "good_answers": [
+      "Léonard de Vinci"
+    ],
+    "bad_answers": [
+      "Michel-Ange",
+      "Donatello",
+      "Boticceli",
+      "SCICCLIONNC QC TCPONSC. VIT JCCLOIN O Michel-ANge vie !",
+      "1 CLC UCTUSC POUT VOUS TAIMICTHCT d lA DOLICCEU",
+      "SEtECLIONNEe dE TEPONSE. UN JELON G BOLICCEU vie !",
+      "1 CLE UULISE POUT VOUS TAMENEF à làA LVUIIALElO"
+    ],
+    "question": "Qui a peint Mona Lisa ?"
+  },
+  {
+    "good_answers": [
+      "Charge"
+    ],
+    "bad_answers": [
+      "Fondateur des Asturies",
+      "Reprise de territoire perdu",
+      "Le Mutin"
+    ],
+    "question": "Laquelle de ces propositions n'est PAS une des compétences passives de Pélage ?"
+  },
+  {
+    "good_answers": [
+      "Afrique"
+    ],
+    "bad_answers": [
+      "Amérique du Sud",
+      "Europe",
+      "Asie"
+    ],
+    "question": "Sur quel continent considère-t-on généralement que la race humaine est née ?"
+  },
+  {
+    "good_answers": [
+      "Baybars"
+    ],
+    "bad_answers": [
+      "Bélisaire",
+      "Saladin",
+      "Richard 1er",
+      "Richard ler"
+    ],
+    "question": "Quel commandant était surnommé le Père de la Conquête ?"
+  },
+  {
+    "good_answers": [
+      "Ivan le Terrible",
+      "Ilvan le Terrible"
+    ],
+    "bad_answers": [
+      "L’empereur effrayant",
+      "Nicolas l’Horrible",
+      "Le vilain type"
+    ],
+    "question": "Dans l’histoire russe, quel surnom a été donné au premier tsar pour sa tyrannie ?"
+  },
+  {
+    "good_answers": [
+      "Un bâtiment non ennemi"
+    ],
+    "bad_answers": [
+      "La zone de sécurité de l'ennemi",
+      "Un bâtiment ennemi",
+      "La zone de sécurité de votre équipe"
+    ],
+    "question": "Dans le Tombeau d'Osiris, où devez-vous emmener le tombeau ?"
+  },
+  {
+    "good_answers": [
+      "Jules César"
+    ],
+    "bad_answers": [
+      "Le Cid",
+      "Pélage",
+      "Hermann le Chérusque"
+    ],
+    "question": "Lequel des commandants suivants excelle-t-il à l’attaque de villes ennemies ?"
+  },
+  {
+    "good_answers": [
+      "Les Incas"
+    ],
+    "bad_answers": [
+      "Les Amazones",
+      "Les Mayas",
+      "La Civilisation de la vallée de l'Indus"
+    ],
+    "question": "Quelle ancienne civilisation a construit la « Cité perdue » du Machu Picchu ?"
+  },
+  {
+    "good_answers": [
+      "Énergie nucléaire"
+    ],
+    "bad_answers": [
+      "Biomasse",
+      "Énergie géothermique",
+      "Énergie hydroélectrique"
+    ],
+    "question": "Laquelle des propositions suivantes est une source d'énergie alternative basée sur la fission d'atomes lourds en atomes plus léger pour libérer de l'énergie ?"
+  },
+  {
+    "good_answers": [
+      "Mehmed |l",
+      "Mehmed !!",
+      "Mehmed Il"
+    ],
+    "bad_answers": [
+      "Baybars",
+      "Yi Seong-Gye",
+      "Saladin"
+    ],
+    "question": "Quel commandant fut en charge de la capture de Constantinople à l’âge de 21 ans ?"
+  },
+  {
+    "good_answers": [
+      "Iran"
+    ],
+    "bad_answers": [
+      "Thaïlande",
+      "Irak",
+      "Myanmar"
+    ],
+    "question": "Quel pays d'Asie recouvre l'ancien Empire parthe ?"
+  },
+  {
+    "good_answers": [
+      "Euclide"
+    ],
+    "bad_answers": [
+      "Galilée",
+      "Copernic",
+      "Archimède"
+    ],
+    "question": "Quel ancien érudit grec a posé les bases des futures mathématiques européennes et été l'auteur des « Éléments » de géométrie ?"
+  },
+  {
+    "good_answers": [
+      "Autel du feu"
+    ],
+    "bad_answers": [
+      "Sanctuaire du courage",
+      "Sanctuaire du sang",
+      "Sanctuaire du grand vent"
+    ],
+    "question": "Quels types de lieux saints accordent des bonus d’attaque de troupe ?"
+  },
+  {
+    "good_answers": [
+      "Genghis Khan"
+    ],
+    "bad_answers": [
+      "Bélisaire",
+      "Lohar",
+      "Yi Seong-Gye"
+    ],
+    "question": "Qui fut le fondateur de l’Empire mongol ?"
+  },
+  {
+    "good_answers": [
+      "Maniérisme"
+    ],
+    "bad_answers": [
+      "Individualisme",
+      "Sécularisme",
+      "Humanisme"
+    ],
+    "question": "Laquelle des propositions suivantes n'était pas un pilier de la Renaissance ?"
+  },
+  {
+    "good_answers": [
+      "La bataille de Cannes"
+    ],
+    "bad_answers": [
+      "La guerre de Cent Ans",
+      "La guerre des Deux-Roses",
+      "La bataille des Thermopyles"
+    ],
+    "question": "Lors de la deuxième guerre punique, au cours de quelle bataille Hannibal a vaincu une armée romaine alors qu’il était largement en sous-nombre ?"
+  },
+  {
+    "good_answers": [
+      "La bataille de Cannes"
+    ],
+    "bad_answers": [
+      "La guerre de Cent Ans",
+      "La guerre des Deux-Roses",
+      "La bataille des Thermopyles"
+    ],
+    "question": "Lors de la deuxième guerre punique, au cours de quelle bataille Hannibal à vaincu une armée romaine alors qu’il était largement en sous-nombre ?"
+  },
+  {
+    "good_answers": [
+      "Le code de Hammurabi"
+    ],
+    "bad_answers": [
+      "La loi des Douze Tables",
+      "Le Manusmriti",
+      "Les Scriptures"
+    ],
+    "question": "Lequel des Codes de lois babyloniens fut le premier recueil de lois écrites de l’Histoire connue ?"
+  },
+  {
+    "good_answers": [
+      "Frappe longue portée"
+    ],
+    "bad_answers": [
+      "C’était juste !",
+      "Couronnement divin",
+      "Armé jusqu’aux dents",
+      "Armé jusqu'’aux dents",
+      "Armé jusqu'aux dents"
+    ],
+    "question": "Lequel des succès suivants doit être décroché avant le succès « Flocon de neige spécial » ?"
+  },
+  {
+    "good_answers": [
+      "Jason"
+    ],
+    "bad_answers": [
+      "Arès",
+      "Pélias",
+      "Hercule"
+    ],
+    "question": "Dans la mythologie grecque, quel héros s’est aventuré à la recherche de la toison d’or?"
+  },
+  {
+    "good_answers": [
+      "Commandement d’unités d’archerie",
+      "Commandement d'unités d’archerie",
+      "Commandement d’unités d'archerie"
+    ],
+    "bad_answers": [
+      "Commandement d’unités d’infanterie",
+      "Attaque de villes",
+      "Récolte de ressources",
+      "Commandement d’unités d'infanterie"
+    ],
+    "question": "Dans quel domaine la commandante Keira est-elle douée ?"
+  },
+  {
+    "good_answers": [
+      "Périclès"
+    ],
+    "bad_answers": [
+      "Périandre",
+      "Phocion",
+      "Montesquieu"
+    ],
+    "question": "Qui a été salué par ses compatriotes comme étant le meilleur et le plus honnête des représentants démocratiques de la Grèce antique ?"
+  },
+  {
+    "good_answers": [
+      "Plus il y a de progénitures, plus ils ont de chances de survivre",
+      "Plus ily a de progénitures, plus ils ont de chances de survivre"
+    ],
+    "bad_answers": [
+      "Pour que leurs bébés aient des amis avec qui jouer",
+      "Plus il y a de progénitures, moins il y a de concurrence",
+      "Plus il y a de progénitures, moins ils ont de chances de survivre",
+      "Plus il y a de progénitures, moins ily a de concurrence",
+      "Plus ily a de progénitures, moins ils ont de chances de survivre"
+    ],
+    "question": "Pourquoi les grenouilles et d'autres organismes produisent-ils tant d'œufs/progénitures ?"
+  },
+  {
+    "good_answers": [
+      "Marco Polo"
+    ],
+    "bad_answers": [
+      "Vasco da Gama",
+      "Ferdinand Magellan",
+      "Christophe Colomb"
+    ],
+    "question": "Quel Européen a écrit le premier carnet de voyage détaillant l’histoire, la culture et l’art de la Chine ?"
+  },
+  {
+    "good_answers": [
+      "Archimède"
+    ],
+    "bad_answers": [
+      "Socrate",
+      "Aristote",
+      "Platon"
+    ],
+    "question": "Quel physicien de la Grèce antique est connu pour avoir découvert le principe de flottabilité en prenant un bain ?"
+  },
+  {
+    "good_answers": [
+      "Noire"
+    ],
+    "bad_answers": [
+      "Orange",
+      "Rose",
+      "Blanche"
+    ],
+    "question": "De quelle couleur est la peau d’un ours polaire ?"
+  },
+  {
+    "good_answers": [
+      "Les royaumes francs"
+    ],
+    "bad_answers": [
+      "L’empire romain",
+      "L'Empire ottoman",
+      "L’archiduché d’Autriche",
+      "L’Empire ottoman",
+      "L'empire romain"
+    ],
+    "question": "La France et l’Allemagne faisaient autrefois partie de quel royaume féodal ?"
+  },
+  {
+    "good_answers": [
+      "Château"
+    ],
+    "bad_answers": [
+      "Monument",
+      "Caserne",
+      "Centre d’alliance",
+      "Centre d'’alliance"
+    ],
+    "question": "Laquelle des propositions suivantes sert à rassembler les troupes de l’alliance ?"
+  },
+  {
+    "good_answers": [
+      "Cola"
+    ],
+    "bad_answers": [
+      "Café",
+      "Red Bull",
+      "Jus d'orange"
+    ],
+    "question": "Quelle boisson a été inventée par le pharmacien américain John Pemberton ?"
+  },
+  {
+    "good_answers": [
+      "Plomb"
+    ],
+    "bad_answers": [
+      "Cuivre",
+      "Coton",
+      "Pétrole"
+    ],
+    "question": "Laquelle des ressources suivantes ne se trouve pas dans les jeans ?"
+  },
+  {
+    "good_answers": [
+      "Louis XIV"
+    ],
+    "bad_answers": [
+      "Louis XVI",
+      "Louis XVII",
+      "Louis XV"
+    ],
+    "question": "Lequel des rois français suivants était connu sous le nom de Roi Soleil ?"
+  },
+  {
+    "good_answers": [
+      "La Pierre de Rosette"
+    ],
+    "bad_answers": [
+      "La Pyramide de Khéops",
+      "La Tour de Babel",
+      "Le Complexe funéraire de Djéser"
+    ],
+    "question": "Quelle découverte a permis le déchiffrage des hiéroglyphes ?"
+  },
+  {
+    "good_answers": [
+      "Tactiques obliques"
+    ],
+    "bad_answers": [
+      "L’éveil de l’Empire",
+      "Épée d'Osman",
+      "Rayonnement de Bursa",
+      "L’éveil de l’'Empire",
+      "Épée d’Osman"
+    ],
+    "question": "Laquelle de ces propositions n’est PAS une des compétences d’Osman | ?"
+  },
+  {
+    "good_answers": [
+      "Annihilation totale"
+    ],
+    "bad_answers": [
+      "Sanction",
+      "Force écrasante",
+      "Esprit inflexible"
+    ],
+    "question": "Laquelle de ces propositions n’est PAS une des compétences de Lohar ?"
+  },
+  {
+    "good_answers": [
+      "Talc"
+    ],
+    "bad_answers": [
+      "Fluorite",
+      "Calcite",
+      "Alun"
+    ],
+    "question": "Quel est le minéral le plus souple actuellement connu de l'homme ?"
+  },
+  {
+    "good_answers": [
+      "Édouard VI"
+    ],
+    "bad_answers": [
+      "Élisabeth Ire",
+      "Marie",
+      "Anne"
+    ],
+    "question": "Qui fut le premier des enfants de Henri VIII à régner sur l’Angleterre ?"
+  },
+  {
+    "good_answers": [
+      "Saladin"
+    ],
+    "bad_answers": [
+      "Bélisaire",
+      "Charles ler",
+      "Jules César"
+    ],
+    "question": "Qui parmi les propositions suivantes était un ennemi de Richard Cœur de lion ?"
+  },
+  {
+    "good_answers": [
+      "Humanisme"
+    ],
+    "bad_answers": [
+      "Sécularisme",
+      "Perspectivisme",
+      "Indulgence"
+    ],
+    "question": "Laquelle des propositions suivantes était un mouvement intellectuel de la Renaissance dans lequel les penseurs étudiaient des textes classiques et se concentraient sur le potentiel et les réussites des humains ?"
+  },
+  {
+    "good_answers": [
+      "Le Fantôme de l'Opéra"
+    ],
+    "bad_answers": [
+      "West Side Story",
+      "Les Noces de Figaro",
+      "La Triviata"
+    ],
+    "question": "Les quatre plus grandes comédies musicales au monde sont Cats, Les Misérables, Miss Saigon et…?"
+  },
+  {
+    "good_answers": [
+      "Johann Gutenberg"
+    ],
+    "bad_answers": [
+      "Peter Bruegel the Elder",
+      "Hans Holbein le Jeune",
+      "Jan van Eyck"
+    ],
+    "question": "Qui a inventé la presse d’imprimerie ?"
+  },
+  {
+    "good_answers": [
+      "Louis IX"
+    ],
+    "bad_answers": [
+      "Louis VI",
+      "Louis V",
+      "Louis ler"
+    ],
+    "question": "Quel monarque français était surnommé « Saint Louis » ?"
+  },
+  {
+    "good_answers": [
+      "Robert Davidson"
+    ],
+    "bad_answers": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "James Watt"
+    ],
+    "question": "Quel inventeur a construit la première locomotive électrique au monde en 1837 ?"
+  },
+  {
+    "good_answers": [
+      "Pandore"
+    ],
+    "bad_answers": [
+      "Ève",
+      "Vénus",
+      "Héra"
+    ],
+    "question": "Qui fut la première femme humaine créée par Héphaïstos dans la mythologie grecque ?"
+  },
+  {
+    "good_answers": [
+      "Son frère"
+    ],
+    "bad_answers": [
+      "Sa sœur",
+      "Son oncle",
+      "Son père"
+    ],
+    "question": "Henry ler a pris le trône d’Angleterre en 1100 après la mort de quel proche ?"
+  },
+  {
+    "good_answers": [
+      "L'influence des actinobactéries"
+    ],
+    "bad_answers": [
+      "Les impuretés de l’air lavées par la pluie",
+      "C’est l’odeur de la pluie",
+      "Rien de ce qui précède"
+    ],
+    "question": "Quelle est l’origine de l’odeur distinctive quand il commence à pleuvoir ?"
+  },
+  {
+    "good_answers": [
+      "Le Vatican"
+    ],
+    "bad_answers": [
+      "Monaco",
+      "Tuvalu",
+      "Nauru"
+    ],
+    "question": "Laquelle des nations suivantes possède la plus petite superficie ?"
+  },
+  {
+    "good_answers": [
+      "206"
+    ],
+    "bad_answers": [
+      "106",
+      "260",
+      "186"
+    ],
+    "question": "De combien d'os le corps humain est-il normalement composé ?"
+  },
+  {
+    "good_answers": [
+      "Émail des dents"
+    ],
+    "bad_answers": [
+      "Os des orteils",
+      "Humérus",
+      "Crâne"
+    ],
+    "question": "Quelle est la partie la plus dure du corps ?"
+  },
+  {
+    "good_answers": [
+      "Les moustiques femelles"
+    ],
+    "bad_answers": [
+      "Les larves de moustiques",
+      "Tout ce qui précède",
+      "Les moustiques mâles"
+    ],
+    "question": "Dans la plupart des cas, quels types de moustiques sucent le sang des animaux ?"
+  },
+  {
+    "good_answers": [
+      "L’empereur Yongle (Zhu Di)"
+    ],
+    "bad_answers": [
+      "L’empereur Hongwu (Zhu Yuanzhang)",
+      "L’empereur Taizong de Tang",
+      "L’empereur Xuanzong de Tang",
+      "L'empereur Xuanzong de Tang"
+    ],
+    "question": "Le Temple du Ciel en Chine a été construit sous le règne de quel empereur ?"
+  },
+  {
+    "good_answers": [
+      "Fission"
+    ],
+    "bad_answers": [
+      "Nucléaire",
+      "Biomasse",
+      "Fusion"
+    ],
+    "question": "Par quel nom appelle-t-on le processus de séparation d'atomes ?"
+  },
+  {
+    "good_answers": [
+      "Cromwell"
+    ],
+    "bad_answers": [
+      "Henry VIII",
+      "Cedric Wallis",
+      "Bernard Montgomery",
+      "Henry VIH!",
+      "Henry VIl",
+      "Henry VII",
+      "Henry VI"
+    ],
+    "question": "Qui a commandé la New Model Army fondée par le Parlement lors de la guerre civile anglaise ?"
+  },
+  {
+    "good_answers": [
+      "Sang turbulent"
+    ],
+    "bad_answers": [
+      "Alliés ou ennemis ?",
+      "Le Mutin",
+      "Danse de la lame enflammée"
+    ],
+    "question": "Laquelle de ces propositions n’est PAS une des compétences de Keira ?"
+  },
+  {
+    "good_answers": [
+      "Léonard de Vinci"
+    ],
+    "bad_answers": [
+      "Machiavel",
+      "Kepler",
+      "Botticelli"
+    ],
+    "question": "Qui a peint « La Cène » ?"
+  },
+  {
+    "good_answers": [
+      "Chevalerie"
+    ],
+    "bad_answers": [
+      "Hors de contrôle",
+      "Guerrier fameux",
+      "Inflexible"
+    ],
+    "question": "Laquelle de ces propositions n'est PAS une des compétences du Cid ?"
+  },
+  {
+    "good_answers": [
+      "Les troupes des ducs ont une attaque renforcée",
+      "Les troupes des Premiers ministres ont une attaque renforcée"
+    ],
+    "bad_answers": [
+      "Les troupes des généraux ont une attaque renforcée",
+      "Les troupes de la Justice ont une meilleure vitesse de marche",
+      "Les Premiers ministres peuvent construire plus rapidement",
+      "Les ducs peuvent entraîner les troupes plus rapidement",
+      "Les architectes peuvent construire plus rapidement",
+      "Les scientifiques peuvent rechercher plus rapidement"
+    ],
+    "question": "Laquelle de ces descriptions de titre de royaume est incorrecte ?"
+  },
+  {
+    "good_answers": [
+      "Canyon du crépuscule"
+    ],
+    "bad_answers": [
+      "Royaume perdu",
+      "La ville d’un gouverneur",
+      "Le Canyon perdu"
+    ],
+    "question": "Keira a défié les attentes du monde entier au cours d’une bataille glorieuse. Où cette bataille s’est-elle déroulée ?"
+  },
+  {
+    "good_answers": [
+      "Groënland"
+    ],
+    "bad_answers": [
+      "Bornéo",
+      "Sumatra",
+      "Nouvelle-Guinée"
+    ],
+    "question": "Laquelle des îles suivantes est la plus grande île du monde ?"
+  },
+  {
+    "good_answers": [
+      "Henry VIII",
+      "Henry VII!",
+      "Henry VII",
+      "Henry VI",
+      "Henry VIHI",
+      "Henry VIl"
+    ],
+    "bad_answers": [
+      "Louis VIII",
+      "Édouard IIl",
+      "Richard 1er",
+      "Richard ler",
+      "Édouard IHl",
+      "Édouard Il"
+    ],
+    "question": "Le Pays de Galles a officiellement intégré le Royaume de Grande-Bretagne lors du règne de quel roi ?"
+  },
+  {
+    "good_answers": [
+      "Force tonitruante"
+    ],
+    "bad_answers": [
+      "Tromperie",
+      "Bucellarii",
+      "Irrésistible"
+    ],
+    "question": "Laquelle de ces propositions n’est PAS une des compétences de Bélisaire ?"
+  },
+  {
+    "good_answers": [
+      "Rome ancienne"
+    ],
+    "bad_answers": [
+      "Égypte ancienne",
+      "Babylone",
+      "Grèce antique"
+    ],
+    "question": "Quelle fut la première civilisation à avoir des toilettes publiques ?"
+  },
+  {
+    "good_answers": [
+      "Vasco da Gama"
+    ],
+    "bad_answers": [
+      "Christophe Colomb",
+      "Ferdinand Magellan",
+      "Bartolomeu Dias"
+    ],
+    "question": "Quel explorateur portugais a navigué du Cap de Bonne-Espérance à l’Inde ?"
+  },
+  {
+    "good_answers": [
+      "Ulysse ; les Grecs"
+    ],
+    "bad_answers": [
+      "Priam ; les Troyens",
+      "Achille ; les Grecs",
+      "Hector ; les Troyens"
+    ],
+    "question": "Qui a eu l'idée du cheval de Troie ? Qui a remporté la guerre de Troie ?"
+  },
+  {
+    "good_answers": [
+      "Guitare"
+    ],
+    "bad_answers": [
+      "Violon",
+      "Ukulélé",
+      "Accordéon"
+    ],
+    "question": "Lequel de ces instruments de musique possède six cordes ?"
+  },
+  {
+    "good_answers": [
+      "L'Odyssée et l'Iliade",
+      "L'Odyssée et l'Iiade"
+    ],
+    "bad_answers": [
+      "L'Odyssée et Hercule",
+      "L'Iliade et l'Énéide",
+      "L'Odyssée et l'Énéide"
+    ],
+    "question": "Quelles sont les deux grandes œuvres attribuées à Homère ?"
+  },
+  {
+    "good_answers": [
+      "Vitesse de récolte"
+    ],
+    "bad_answers": [
+      "Défense de troupes",
+      "Vitesse de marche",
+      "Production de ressources"
+    ],
+    "question": "Le titre de royaume « Reine » augmente lequel des attributs suivants ?"
+  },
+  {
+    "good_answers": [
+      "Odin"
+    ],
+    "bad_answers": [
+      "sif",
+      "Thor",
+      "Loki"
+    ],
+    "question": "Dans la mythologie nordique, qui a brandi l’arme Gungnir ?"
+  },
+  {
+    "good_answers": [
+      "Cléenor",
+      "Cléen or",
+      "Clé en or"
+    ],
+    "bad_answers": [
+      "Réinitialisation de talent",
+      "Modificateur de pseudo",
+      "Changement de civilisation"
+    ],
+    "question": "Lequel des objets suivants ne se trouve PAS dans les magasins d’alliance ?"
+  },
+  {
+    "good_answers": [
+      "Vitesse de récolte +5 %"
+    ],
+    "bad_answers": [
+      "Vitesse de marche +5 %",
+      "Aucune de ces réponses n'est correcte",
+      "Attaque de troupes +5 %",
+      "Aucune de ces réponses n’est correcte"
+    ],
+    "question": "Sur la page VUE COMMANDANT, quel bonus reçoivent les commandants occupant le rôle de « Agent fiscal » ?"
+  },
+  {
+    "good_answers": [
+      "Bartolomeu Dias"
+    ],
+    "bad_answers": [
+      "Christophe Colomb",
+      "Ferdinand Magellan",
+      "Vasco da Gama"
+    ],
+    "question": "Quel explorateur portugais fut le premier Européen à naviguer à la pointe méridionale de l’Afrique ?"
+  },
+  {
+    "good_answers": [
+      "Cao Cao"
+    ],
+    "bad_answers": [
+      "Jeanne d'Arc",
+      "Lohar",
+      "Charles ler"
+    ],
+    "question": "Parmi les commandants suivants, lequel est le plus adapté pour diriger les troupes CONTRE les archers ennemis ?"
+  },
+  {
+    "good_answers": [
+      "Nitrogène"
+    ],
+    "bad_answers": [
+      "Méthane",
+      "Dioxyde de carbone",
+      "Ozone"
+    ],
+    "question": "Laquelle des propositions suivantes n’est PAS un des gaz à effet de serre majeurs de l'atmosphère terrestre ?"
+  },
+  {
+    "good_answers": [
+      "La dynastie moghol"
+    ],
+    "bad_answers": [
+      "Le sultanat de Delhi",
+      "L’empire kouchan",
+      "L’empire Gupta"
+    ],
+    "question": "Le Taj Mahal a été construit au cours de quelle dynastie indienne ?"
+  },
+  {
+    "good_answers": [
+      "Le dernier des Romains"
+    ],
+    "bad_answers": [
+      "Père de la Conquête",
+      "Évangéliste indiscipliné",
+      "Lames de la guerre"
+    ],
+    "question": "Quel est le surnom de Bélisaire ?"
+  },
+  {
+    "good_answers": [
+      "Dans une tribu barbare reculée"
+    ],
+    "bad_answers": [
+      "Dans un humble village fermier",
+      "Dans une cave mystérieuse",
+      "Dans une forêt dense"
+    ],
+    "question": "Où est né le commandant Lohar ?"
+  },
+  {
+    "good_answers": [
+      "Sun Zi"
+    ],
+    "bad_answers": [
+      "Pélage",
+      "Baybars",
+      "Keira"
+    ],
+    "question": "Parmi les commandants suivants, lequel est le plus adapté pour diriger les troupes CONTRE la cavalerie ennemie ?"
+  },
+  {
+    "good_answers": [
+      "Irrésistible"
+    ],
+    "bad_answers": [
+      "Général de Carthage",
+      "Héros national",
+      "Sans issue",
+      "Génie militaire"
+    ],
+    "question": "Laquelle de ces propositions n’est PAS une des compétences d’Hermann ?"
+  },
+  {
+    "good_answers": [
+      "Aucune de ces réponses n’est correcte",
+      "Aucune de ces réponses n'est correcte"
+    ],
+    "bad_answers": [
+      "Vitesse de récolte +5 %",
+      "Attaque de troupes +5 %",
+      "Vitesse de marche +5 %"
+    ],
+    "question": "Sur la page VUE COMMANDANT, quel bonus reçoivent les commandants occupant le rôle de « Ranger » ?"
+  },
+  {
+    "good_answers": [
+      "Tourner"
+    ],
+    "bad_answers": [
+      "Être faibles",
+      "Être petits",
+      "Produire de la chaleur"
+    ],
+    "question": "Les vents en forme de cône des tornades sont connus pour faire quoi ?"
+  },
+  {
+    "good_answers": [
+      "Lancelot"
+    ],
+    "bad_answers": [
+      "Kusunoki Masashige",
+      "Ethelfleda",
+      "Jules César"
+    ],
+    "question": "Qui parmi les propositions suivantes était un Chevalier de la Table Ronde ?"
+  },
+  {
+    "good_answers": [
+      "La maison Hanover"
+    ],
+    "bad_answers": [
+      "La maison Andrew",
+      "La maison Tudor",
+      "La maison de Normandie"
+    ],
+    "question": "À quelle famille royale appartenait la reine Victoria d'Angleterre ?"
+  },
+  {
+    "good_answers": [
+      "243 jours"
+    ],
+    "bad_answers": [
+      "145 jours",
+      "224 jours",
+      "225 jours"
+    ],
+    "question": "À combien de jours sur Terre équivaut un « jour » sur la planète Vénus ?"
+  },
+  {
+    "good_answers": [
+      "Pâris"
+    ],
+    "bad_answers": [
+      "Athènes",
+      "Londres",
+      "Berlin"
+    ],
+    "question": "Laquelle de ces villes a accueilli les Jeux olympiques de 1900 ?"
+  },
+  {
+    "good_answers": [
+      "Hermann le Chérusque"
+    ],
+    "bad_answers": [
+      "Ishida Mitsunari",
+      "Constance",
+      "Bélisaire"
+    ],
+    "question": "Parmi les commandants suivants, lequel est le plus adapté pour diriger les troupes CONTRE l’infanterie ennemie ?"
+  },
+  {
+    "good_answers": [
+      "Attaque de troupes +1 %"
+    ],
+    "bad_answers": [
+      "Santé des troupes +1 %",
+      "Défense de troupes +1 %",
+      "Vitesse de marche +2 %"
+    ],
+    "question": "Sur la page VUE COMMANDANT, quel bonus reçoivent les commandants occupant le rôle de « Instructeur » ?"
+  },
+  {
+    "good_answers": [
+      "Soulagement"
+    ],
+    "bad_answers": [
+      "Impôt",
+      "Emprisonnement",
+      "Leader"
+    ],
+    "question": "Laquelle de ces propositions n’est PAS une compétence de roi ?"
+  },
+  {
+    "good_answers": [
+      "Seondeok"
+    ],
+    "bad_answers": [
+      "Bélisaire",
+      "Ethelfleda",
+      "Hermann le Chérusque"
+    ],
+    "question": "Parmi les commandants suivants, lequel est le plus adapté pour diriger les troupes lors de la récolte de ressources ?"
+  },
+  {
+    "good_answers": [
+      "Royaume-Uni"
+    ],
+    "bad_answers": [
+      "États-Unis",
+      "France",
+      "Allemagne"
+    ],
+    "question": "Dans quel pays se trouve le mystérieux Stonehenge ?"
+  },
+  {
+    "good_answers": [
+      "Jus de tomate"
+    ],
+    "bad_answers": [
+      "Jus de fraise",
+      "Jus de cerise",
+      "Jus de pastèque"
+    ],
+    "question": "Lequel des jus suivants est contenu dans le cocktail classique « Bloody Mary » ?"
+  },
+  {
+    "good_answers": [
+      "Fuzimiao"
+    ],
+    "bad_answers": [
+      "Jardin Zhan",
+      "Lac Xuanwu",
+      "La Porte de Chine"
+    ],
+    "question": "L’échange comique chinois « xiangsheng » est originaire de trois lieux : Tiangiao à Pékin, le Quanye Bazaar à Tianjin et quel lieu à Nanjing ?"
+  },
+  {
+    "good_answers": [
+      "20"
+    ],
+    "bad_answers": [
+      "21",
+      "22",
+      "19"
+    ],
+    "question": "Combien de fois le caractère « 1 » est-il utilisé lorsque vous écrivez tous les nombres de 1 à 99?"
+  },
+  {
+    "good_answers": [
+      "Sphynx"
+    ],
+    "bad_answers": [
+      "Maine Coone",
+      "Siamois",
+      "Persan"
+    ],
+    "question": "Laquelle des races de chat suivantes est connue pour ne pas avoir de poils ?"
+  },
+  {
+    "good_answers": [
+      "Poséidon"
+    ],
+    "bad_answers": [
+      "Prométhée",
+      "Gaïa",
+      "Uranus"
+    ],
+    "question": "Lequel des personnages suivants est le frère aîné de Zeus dans la mythologie grecque ?"
+  },
+  {
+    "good_answers": [
+      "Tomyris"
+    ],
+    "bad_answers": [
+      "Jeanne d'Arc",
+      "Wu Zetian",
+      "Hermann le Chérusque"
+    ],
+    "question": "Laquelle des propositions suivantes est le seule commandant à avoir vaincu Cyrus le Grand au combat ?"
+  },
+  {
+    "good_answers": [
+      "Cerbère"
+    ],
+    "bad_answers": [
+      "Hercule",
+      "Échidna",
+      "Typhon"
+    ],
+    "question": "Dans la mythologie grecque, quel était le nom du chien à 3 têtes d’Hadès qui protégeait les portes de l’Enfer ?"
+  },
+  {
+    "good_answers": [
+      "La maison Médicis"
+    ],
+    "bad_answers": [
+      "Les Rockefeller",
+      "Les Rothschild",
+      "La dynastie capétienne"
+    ],
+    "question": "À quelle famille célèbre et influente appartenait Laurent II de Médicis ?"
+  },
+  {
+    "good_answers": [
+      "Les Sumériens"
+    ],
+    "bad_answers": [
+      "Les Égyptiens de l’antiquité",
+      "Les Romains de l’antiquité",
+      "Les Arabes"
+    ],
+    "question": "Quel groupe ethnique a fondé la première civilisation de Mésopotamie ?"
+  },
+  {
+    "good_answers": [
+      "Charbon"
+    ],
+    "bad_answers": [
+      "Schiste",
+      "Conglomérat",
+      "Pétrole"
+    ],
+    "question": "Quel nom désigne une roche sédimentaire formée par les plantes en décomposition dans les zones marécageuses ?"
+  },
+  {
+    "good_answers": [
+      "1:1000"
+    ],
+    "bad_answers": [
+      "1:10",
+      "1:10000",
+      "1:100"
+    ],
+    "question": "Quel est le rapport de conversion des ampères (A) en milllampères (mA) ?"
+  },
+  {
+    "good_answers": [
+      "Rachitisme"
+    ],
+    "bad_answers": [
+      "Cataractes",
+      "Héméralopie (cécité nocturne)",
+      "Psoriasis"
+    ],
+    "question": "Laquelle de ces maladies peut être provoquée par une carence en vitamine D ?"
+  },
+  {
+    "good_answers": [
+      "Un manque de fruits et légumes frais"
+    ],
+    "bad_answers": [
+      "La dépression et le mal du pays",
+      "Un manque d’eau propre",
+      "L’impossibilité de tuer les bactéries dans la nourriture",
+      "L'impossibilité de tuer les bactéries dans la nourriture",
+      "Un manque d'eau propre"
+    ],
+    "question": "Pourquoi le scorbut était-il un problème fréquent chez les marins lors des longs voyages ?"
+  },
+  {
+    "good_answers": [
+      "Nicolas Copernic"
+    ],
+    "bad_answers": [
+      "Claude Ptolémée",
+      "Pythagore",
+      "Galilée"
+    ],
+    "question": "Quel astronome a proposé la théorie de l’héliocentrisme au XVIe siècle ?"
+  },
+  {
+    "good_answers": [
+      "Zhang Qian"
+    ],
+    "bad_answers": [
+      "Confucius",
+      "Sun Zi",
+      "Cao Cao"
+    ],
+    "question": "Dans la dynastie chinoise des Han, qui a ouvert la route de la soie sur demande de l’Empereur Wu ?"
+  },
+  {
+    "good_answers": [
+      "Il contient de la caféine"
+    ],
+    "bad_answers": [
+      "Il contient des protéines",
+      "Il contient des matières grasses",
+      "Il contient des acides gras saturés"
+    ],
+    "question": "Pourquoi boire du café rend-il les gens plus éveillés ?"
+  },
+  {
+    "good_answers": [
+      "Jeanne d'Arc"
+    ],
+    "bad_answers": [
+      "Scipion",
+      "Le Cid",
+      "Tomyris"
+    ],
+    "question": "Lequel des commandants suivants a-t-il pris part à la guerre de Cent Ans ?"
+  },
+  {
+    "good_answers": [
+      "Nicolas |l",
+      "Nicolas Il"
+    ],
+    "bad_answers": [
+      "Nicolas ler",
+      "Pierre IIl",
+      "Pierre |l",
+      "Pierre !l",
+      "Pierre Il"
+    ],
+    "question": "Qui fut le dernier empereur de la Russie ?"
+  },
+  {
+    "good_answers": [
+      "Découverte des groupes sanguins humains"
+    ],
+    "bad_answers": [
+      "Découverte de l’insuline",
+      "Invention du premier électrocardiogramme",
+      "Découverte d'un traitement à base de foie pour soigner l'anémie",
+      "Découverte de l'insuline"
+    ],
+    "question": "Quelle remarquable contribution scientifique vaudra à Carl Landsteiner le Prix Nobel ?"
+  },
+  {
+    "good_answers": [
+      "Charlemagne"
+    ],
+    "bad_answers": [
+      "Jules César",
+      "David",
+      "Alexandre le Grand"
+    ],
+    "question": "Qui aurait servi d’inspiration au Roi de cœur au poker ?"
+  },
+  {
+    "good_answers": [
+      "Jasmin"
+    ],
+    "bad_answers": [
+      "Pâquerette",
+      "Orchidée",
+      "Lilas"
+    ],
+    "question": "Laquelle des fleurs suivantes sert de fleur nationale aux Philippines ?"
+  },
+  {
+    "good_answers": [
+      "Constantin ler"
+    ],
+    "bad_answers": [
+      "Lohar",
+      "Cléopâtre VII",
+      "Frédéric ler"
+    ],
+    "question": "Quel empereur a émis la Proclamation de Milan ?"
+  },
+  {
+    "good_answers": [
+      "Dioxyde de carbone"
+    ],
+    "bad_answers": [
+      "Oxygène",
+      "Hydrogène",
+      "Nitrogène"
+    ],
+    "question": "Quel gaz constitue plus de 90 % de l’atmosphère de Mars ?"
+  },
+  {
+    "good_answers": [
+      "Ozone"
+    ],
+    "bad_answers": [
+      "Nitrogène",
+      "Dioxyde de carbone",
+      "Néon"
+    ],
+    "question": "L'air paraît souvent plus frais après un orage car il a été enrichi avec quel gaz ?"
+  },
+  {
+    "good_answers": [
+      "Vitamine A"
+    ],
+    "bad_answers": [
+      "Vitamine C",
+      "Vitamine D",
+      "Vitamine B"
+    ],
+    "question": "Laquelle des vitamines suivantes est la plus utile au maintien d’une bonne vision ?"
+  },
+  {
+    "good_answers": [
+      "Rio de Janeiro"
+    ],
+    "bad_answers": [
+      "Brasilia",
+      "Curitiba",
+      "Säo Paulo"
+    ],
+    "question": "Laquelle de ces villes brésiliennes a accueilli les Jeux olympiques ?"
+  },
+  {
+    "good_answers": [
+      "Hermann le Chérusque"
+    ],
+    "bad_answers": [
+      "Bélisaire",
+      "Ishida Mitsunari",
+      "Constance"
+    ],
+    "question": "Parmi les commandants suivants, lequel est le plus adapté pour diriger les troupes CONTRE l'infanterie ennemie ?"
+  },
+  {
+    "good_answers": [
+      "Combattre les infections et maladies"
+    ],
+    "bad_answers": [
+      "Transporter l'oxygène",
+      "Digérer la nourriture",
+      "Transporter de l'eau"
+    ],
+    "question": "Quel est le rôle principal des globules blancs dans le corps humain ?"
+  },
+  {
+    "good_answers": [
+      "Le roi sans couronne"
+    ],
+    "bad_answers": [
+      "Bouclier du peuple",
+      "Pionnier impérial",
+      "Saint seigneur"
+    ],
+    "question": "Juel est le surnom de Jules César ?"
+  },
+  {
+    "good_answers": [
+      "Mali"
+    ],
+    "bad_answers": [
+      "Vietnam",
+      "Chine",
+      "Australie"
+    ],
+    "question": "Par lequel de ces pays passe le Premier méridien (méridien de Greenwich) ?"
+  },
+  {
+    "good_answers": [
+      "Nicolas Copernic"
+    ],
+    "bad_answers": [
+      "Pythagore",
+      "Galilée",
+      "Claude Ptolémée"
+    ],
+    "question": "Quel astronome a proposé la théorie de l'héliocentrisme au XVIe siècle ?"
+  },
+  {
+    "good_answers": [
+      "Sang celtique"
+    ],
+    "bad_answers": [
+      "Le Mora",
+      "Cœur rusé",
+      "Dirigeant sage"
+    ],
+    "question": "Laquelle de ces propositions n’est PAS une des compétences de Mathilde de Flandre ?"
+  },
+  {
+    "good_answers": [
+      "Vitesse de marche d'éclaireur et Portée d'exploration"
+    ],
+    "bad_answers": [
+      "Portée d'exploration et Temps d'exploration",
+      "Nombre de villages trouvés et Temps d'exploration",
+      "Vitesse de marche d'éclaireur et Temps d'exploration"
+    ],
+    "question": "En dehors du « Nombre d'éclaireurs » et de la « Puissance », lequel des paramètres suivants du Camp d'éclaireurs peut aussi être amélioré ?"
+  },
+  {
+    "good_answers": [
+      "Poste de messagerie"
+    ],
+    "bad_answers": [
+      "Camp d'éclaireurs",
+      "Château",
+      "Comptoir"
+    ],
+    "question": "Lesquels de ces bâtiments ne peuvent pas être améliorés ?"
+  },
+  {
+    "good_answers": [
+      "Aucune de ces réponses n'est correcte"
+    ],
+    "bad_answers": [
+      "Nouvelle-Zélande",
+      "Argentine",
+      "Colombie"
+    ],
+    "question": "Lequel des pays suivants se situe entièrement sur l'hémisphère nord ?"
+  },
+  {
+    "good_answers": [
+      "Invoquez des points de ressource dans une zone sélectionnée"
+    ],
+    "bad_answers": [
+      "Augmente considérablement le rendement des points de ressources d’alliance",
+      "Augmente considérablement la vitesse de récolte pour les membres de l'alliance",
+      "Augmente considérablement les gains en ressources pour le territoire de l'alliance",
+      "Augmente considérablement le rendement des points de ressources d'alliance"
+    ],
+    "question": "Que fait la compétence d’alliance « Don de la nature » quand vous l’utilisez ?"
+  },
+  {
+    "good_answers": [
+      "Tomoe Gozen"
+    ],
+    "bad_answers": [
+      "Jeanne d'Arc",
+      "Boadicée",
+      "Kuro Hogan"
+    ],
+    "question": "Qui fut un général lors de guerre de Genpei au Japon ?"
+  },
+  {
+    "good_answers": [
+      "Le jour polaire et la nuit polaire sont des phénomènes qui s'y produisent"
+    ],
+    "bad_answers": [
+      "Toute l'eau qui s'y trouve est à l'état solide",
+      "Sa position et ses frontières sont fixes",
+      "Ses régions au sud sont appelées la « Zone glaciale du Nord »"
+    ],
+    "question": "Laquelle des propositions suivantes décrit avec exactitude le Cercle arctique ?"
+  },
+  {
+    "good_answers": [
+      "Armée indomptable"
+    ],
+    "bad_answers": [
+      "Piété filiale",
+      "Tueur de Khan",
+      "Défenseur de l'Empire"
+    ],
+    "question": "Laquelle de ces propositions n’est PAS une des compétences de Mulan ?"
+  },
+  {
+    "good_answers": [
+      "Vitamine A",
+      "Vitamine À"
+    ],
+    "bad_answers": [
+      "Vitamine B",
+      "Vitamine C",
+      "Vitamine D"
+    ],
+    "question": "Laquelle des vitamines suivantes est la plus utile au maintien d'une bonne vision ?"
+  },
+  {
+    "good_answers": [
+      "L'« Art de la guerre » de Sun Zi ?"
+    ],
+    "bad_answers": [
+      "L'« Entraînement à la vraie discipline »",
+      "L'« Art de la guerre » de Wu Zi ?",
+      "L'« Art de la guerre » de Sun Bin ?"
+    ],
+    "question": "Quel est le nom du plus ancien livre de stratégie militaire connu de Chine ?"
+  },
+  {
+    "good_answers": [
+      "Machiavel"
+    ],
+    "bad_answers": [
+      "Castiglione",
+      "Shakespeare",
+      "Petrarch"
+    ],
+    "question": "« La fin justifie les moyens » était une croyance fondamentale de l'auteur du « Prince ». Quel était son nom ?"
+  },
+  {
+    "good_answers": [
+      "Augmente la vitesse de récolte des membres de l'alliance pour un type de ressource"
+    ],
+    "bad_answers": [
+      "Augmente la charge des troupes pour les membres de l’alliance",
+      "Les membres de l’alliance reçoivent 10 % de ressources en plus lors de l'achèvement de la collecte",
+      "Augmente la vitesse de récolte pour les membres de l'alliance",
+      "Les membres de l’alliance reçoivent 10 % de ressources en plus lors de l’achèvement de la collecte"
+    ],
+    "question": "Que fait la compétence d’alliance « Recharge complète » quand vous l’utilisez ?"
+  },
+  {
+    "good_answers": [
+      "Chauve-souris"
+    ],
+    "bad_answers": [
+      "Manchot",
+      "Ornithorynque",
+      "Tortue"
+    ],
+    "question": "Lequel des animaux suivants ne pond PAS d'œufs ?"
+  },
+  {
+    "good_answers": [
+      "Armure d’écailles"
+    ],
+    "bad_answers": [
+      "Armure de cuir",
+      "Bouclier",
+      "Hache améliorée"
+    ],
+    "question": "Quelle technologie précède directement Cavalerie lourde ?"
+  },
+  {
+    "good_answers": [
+      "Collision entre plaques"
+    ],
+    "bad_answers": [
+      "Séismes",
+      "Éruption volcanique",
+      "Années consécutives de chutes de neige"
+    ],
+    "question": "Quelle est la principale cause de formation de la chaîne de l'Himalaya ?"
+  },
+  {
+    "good_answers": [
+      "Le dieu de la foudre"
+    ],
+    "bad_answers": [
+      "Le dieu du vent",
+      "Le dieu du feu",
+      "Le dieu de l'eau",
+      "Le dieu de l’eau"
+    ],
+    "question": "Quel dieu est Taranis dans la mythologie celtique ?"
+  },
+  {
+    "good_answers": [
+      "1804"
+    ],
+    "bad_answers": [
+      "1870",
+      "1794",
+      "1756"
+    ],
+    "question": "En quelle année le Code civil a-t-il été établi ?"
+  },
+  {
+    "good_answers": [
+      "Forteresse défensive"
+    ],
+    "bad_answers": [
+      "Palais royal",
+      "Hôpital de guerre",
+      "Grenier de guerre"
+    ],
+    "question": "Quelle était la fonction d’origine de la Bastille, une prison autrefois située dans le centre de Paris, en France ?"
+  },
+  {
+    "good_answers": [
+      "Dans un mausolée royal"
+    ],
+    "bad_answers": [
+      "Sur un ancien champ de bataille",
+      "Sous la mer",
+      "Dans les ruines d’un palais"
+    ],
+    "question": "Où l’armée de terre cuite, appartenant au patrimoine mondial, a-t-elle été trouvée ?"
+  },
+  {
+    "good_answers": [
+      "Antonie van Leeuwenhoek"
+    ],
+    "bad_answers": [
+      "Herman Boerhaave",
+      "Martinus Nijhoff",
+      "Willem Barentsz"
+    ],
+    "question": "Quel scientifique néerlandais est considéré comme le « père de la microbiologie » ?"
+  },
+  {
+    "good_answers": [
+      "Venezuela"
+    ],
+    "bad_answers": [
+      "Équateur",
+      "Pérou",
+      "Panama"
+    ],
+    "question": "Dans quel pays est né le célèbre révolutionnaire et stratège militaire Simôn Bolivar ?"
+  },
+  {
+    "good_answers": [
+      "William Harvey"
+    ],
+    "bad_answers": [
+      "Louis Pasteur",
+      "Edward Jenner",
+      "Percivall Pott"
+    ],
+    "question": "Lequel des médecins suivants a été le premier à décrire complètement et en détail la circulation systémique et la fonction du cœur ?"
+  },
+  {
+    "good_answers": [
+      "Afrique"
+    ],
+    "bad_answers": [
+      "Asie",
+      "Amérique du Sud",
+      "Europe"
+    ],
+    "question": "Sur quel continent le serval a-t-il vécu pour la première fois ?"
+  },
+  {
+    "good_answers": [
+      "Édimbourg"
+    ],
+    "bad_answers": [
+      "Dundee",
+      "Glasgow",
+      "Aberdeen"
+    ],
+    "question": "Quelle est la capitale de l'Écosse ?"
+  },
+  {
+    "good_answers": [
+      "3"
+    ],
+    "bad_answers": [
+      "1",
+      "2",
+      "4"
+    ],
+    "question": "Depuis sa fondation en 1863, combien de fois le Comité international de la Croix-Rouge a-t-il remporté le prix Nobel de la paix ?"
+  },
+  {
+    "good_answers": [
+      "République de Venise"
+    ],
+    "bad_answers": [
+      "Les Mongoles",
+      "France",
+      "Royaume de Hongrie"
+    ],
+    "question": "Dans quel pays est né Marco Polo, le célèbre explorateur et marchand ?"
+  },
+  {
+    "good_answers": [
+      "Han"
+    ],
+    "bad_answers": [
+      "Tang",
+      "Qin",
+      "Jin"
+    ],
+    "question": "Vers la fin de quelle dynastie chinoise s’ouvre le roman Les Trois Royaumes ?"
+  },
+  {
+    "good_answers": [
+      "Capacité de renforts de la ville"
+    ],
+    "bad_answers": [
+      "Points individuels d'alliance",
+      "Points de cadeaux d'alliance",
+      "Vitesse de construction"
+    ],
+    "question": "En dehors du « Nombre d'aides recevables » et de la « Puissance », lequel des paramètres de Centre d'alliance suivants peut aussi être amélioré ?"
+  },
+  {
+    "good_answers": [
+      "Exemption de frais médicaux en cas de maladie"
+    ],
+    "bad_answers": [
+      "Exonération de tous les impôts",
+      "Exemption de service militaire obligatoire",
+      "Exeption du travail manuel lourd des classes inférieures"
+    ],
+    "question": "Dans l'Égypte ancienne, laquelle de ces propositions n'était PAS un des privilèges des scribes ?"
+  },
+  {
+    "good_answers": [
+      "Richard 1er",
+      "Richard ler"
+    ],
+    "bad_answers": [
+      "Mehmed Il",
+      "Constantin ler",
+      "Frédéric ler",
+      "Frédéric 1er",
+      "Mehmed !!"
+    ],
+    "question": "Quel commandant a signé un traité de paix avec Saladin en 1192 ?"
+  },
+  {
+    "good_answers": [
+      "Les rabats intérieurs des feuilles sécrètent un liquide digestif"
+    ],
+    "bad_answers": [
+      "Aucune de ces réponses n'est correcte",
+      "Les feuilles se ferment à plusieurs reprises pour écraser la proie avant la digestion",
+      "Elle absorbe sa proie alors qu'elle se décompose naturellement"
+    ],
+    "question": "Quand une dionée attrape-mouche capture un insecte, comment digère et absorbe-t-elle sa proie ?"
+  },
+  {
+    "good_answers": [
+      "Poisson marin tropical"
+    ],
+    "bad_answers": [
+      "Poisson d'eau douce froide",
+      "Poisson d'eau douce tropical",
+      "Poisson marin d'eau froide"
+    ],
+    "question": "Laquelle de ces propositions décrit le mieux un poisson-clown ?"
+  },
+  {
+    "good_answers": [
+      "Dioxyde de carbone"
+    ],
+    "bad_answers": [
+      "Oxygène",
+      "Hydrogène",
+      "Nitrogène"
+    ],
+    "question": "Quel gaz constitue plus de 90 % de l'atmosphère de Mars ?"
+  },
+  {
+    "good_answers": [
+      "Yersinia pestis"
+    ],
+    "bad_answers": [
+      "Variole",
+      "Peste bovine",
+      "Tuberculose"
+    ],
+    "question": "Laquelle des propositions suivantes est un autre nom de la « peste noire » qui a fait rage dans toute l’Europe à la fin du Moyen-Âge ?"
+  },
+  {
+    "good_answers": [
+      "Zhang Qian"
+    ],
+    "bad_answers": [
+      "Confucius",
+      "Sun Zi",
+      "Cao Cao"
+    ],
+    "question": "Dans la dynastie chinoise des Han, qui a ouvert la route de la soie sur demande de l'Empereur Wu ?"
+  },
+  {
+    "good_answers": [
+      "Flèche Bodkin"
+    ],
+    "bad_answers": [
+      "Acier Wootz",
+      "Balistique",
+      "Étriers"
+    ],
+    "question": "Quelle technologie précède directement Pavois ?"
+  },
+  {
+    "good_answers": [
+      "Travail du fer"
+    ],
+    "bad_answers": [
+      "Équitation",
+      "Amélioration de flèches",
+      "Projectile enflammé"
+    ],
+    "question": "Quelle technologie précède directement Épéiste ?"
+  },
+  {
+    "good_answers": [
+      "La Renaissance"
+    ],
+    "bad_answers": [
+      "La Réforme",
+      "La Réforme catholique",
+      "La Paix d'Augsbourg"
+    ],
+    "question": "Quelle période de l'histoire européenne, allant de 1300 à 1600, à vu renaître l'intérêt dans la littérature classique et conduit à de vastes changements dans l'art, l'apprentissage et la vision du monde ?"
+  },
+  {
+    "good_answers": [
+      "Augmente considérablement la vitesse de construction du drapeau d'alliance"
+    ],
+    "bad_answers": [
+      "Réduit considérablement les coûts de construction pour les membres de l'alliance",
+      "Réduit considérablement le coût en ressources pour la construction de drapeaux d’alliance",
+      "Augmente considérablement la vitesse de construction pour les membres de l'alliance"
+    ],
+    "question": "Que fait la compétence d’alliance « Artisan compétent » quand vous l’utilisez ?"
+  },
+  {
+    "good_answers": [
+      "Londres"
+    ],
+    "bad_answers": [
+      "New York",
+      "Paris",
+      "Liverpool"
+    ],
+    "question": "Laquelle des villes suivantes a été la première à avoir un système souterrain de transport en commun rapide ?"
+  },
+  {
+    "good_answers": [
+      "La Déesse de l'Aurore"
+    ],
+    "bad_answers": [
+      "La Déesse de la Sagesse",
+      "La Déesse de l'Espoir",
+      "La Déesse de la Lune"
+    ],
+    "question": "Dans la mythologie grecque, comment la déesse Éos est-elle appelée ?"
+  },
+  {
+    "good_answers": [
+      "Elle consultait de nombreux patients la nuit"
+    ],
+    "bad_answers": [
+      "Elle a amélioré l’hygiène des camps militaires",
+      "Elle prenait soin des patients souffrant de troubles mentaux",
+      "Elle lisait beaucoup de dossiers sur ses patients",
+      "Elle a amélioré l'hygiène des camps militaires"
+    ],
+    "question": "Pourquoi l’infirmière britannique Florence Nightingale était-elle connue sous le nom de « Dame à la lampe » ?"
+  },
+  {
+    "good_answers": [
+      "Victor-Emmanuel !l"
+    ],
+    "bad_answers": [
+      "Charles Albert",
+      "Victor-Emmanuel ler",
+      "Humbert ler"
+    ],
+    "question": "Qui fut le premier roi d’Italie après son unification en 1861 ?"
+  },
+  {
+    "good_answers": [
+      "François |l",
+      "François Il"
+    ],
+    "bad_answers": [
+      "Joseph 1l",
+      "Charles VII",
+      "Frédéric IHl",
+      "Frédéric IIl",
+      "Joseph !l",
+      "Joseph |l"
+    ],
+    "question": "Qui fut le dernier empereur du Saint-Empire romain ?"
+  },
+  {
+    "good_answers": [
+      "Baron"
+    ],
+    "bad_answers": [
+      "Vicomte",
+      "Comte",
+      "Marquis"
+    ],
+    "question": "Quel titre détenait Pierre de Coubertin, fondateur du Comité International Olympique ?"
+  },
+  {
+    "good_answers": [
+      "3"
+    ],
+    "bad_answers": [
+      "2",
+      "4",
+      "5"
+    ],
+    "question": "Combien de coffres de récompenses sont-ils octroyés lorsque vous atteignez 60 points d’activité quotidiens ?"
+  },
+  {
+    "good_answers": [
+      "Centre d’alliance"
+    ],
+    "bad_answers": [
+      "Taverne",
+      "Hôpital",
+      "Forgeron"
+    ],
+    "question": "Laquelle des propositions suivantes est un bâtiment économique ?"
+  },
+  {
+    "good_answers": [
+      "Groënland"
+    ],
+    "bad_answers": [
+      "Nouvelle-Guinée",
+      "Bornéo",
+      "Sumatra"
+    ],
+    "question": "Laquelle des Îles suivantes est la plus grande île du monde ?"
+  },
+  {
+    "good_answers": [
+      "Camp d’éclaireurs"
+    ],
+    "bad_answers": [
+      "Monument",
+      "Poste de messagerie",
+      "Académie"
+    ],
+    "question": "Laquelle des propositions suivantes est un bâtiment militaire ?"
+  },
+  {
+    "good_answers": [
+      "Édouard VIII"
+    ],
+    "bad_answers": [
+      "George VI",
+      "Harold ler",
+      "Édouard de Woodstock"
+    ],
+    "question": "Quel roi d'Angleterre a rendu célèbre le « nœud Windsor » ?"
+  },
+  {
+    "good_answers": [
+      "Le bronze est plus dur et résistant que les autres matériaux disponibles à l'époque"
+    ],
+    "bad_answers": [
+      "Aucune de ces réponses n'est correcte",
+      "L'utilisation de biens en bronze était perçue comme un signe de dévotion religieuse",
+      "Les biens en bronze étaient les moins coûteux"
+    ],
+    "question": "Parmi les propositions suivantes, laquelle est la plus susceptible d'avoir mené directement à l'Âge de bronze ?"
+  },
+  {
+    "good_answers": [
+      "Diète de Worms"
+    ],
+    "bad_answers": [
+      "Concile de Trente",
+      "Paix d'Augsbourg",
+      "Acte de suprématie"
+    ],
+    "question": "Quelle mesure officielle criminalisait le fait de donner à Martin Luther de la nourriture ou un abri ?"
+  },
+  {
+    "good_answers": [
+      "Danemark"
+    ],
+    "bad_answers": [
+      "Suisse",
+      "Allemagne",
+      "États-Unis"
+    ],
+    "question": "Le drapeau de quel pays détient le record du monde de plus ancien drapeau national utilisé en continu ?"
+  },
+  {
+    "good_answers": [
+      "Tokugawa leyasu"
+    ],
+    "bad_answers": [
+      "Date Masamune",
+      "Empereur Meiji",
+      "Takenaka Shigeyoshi"
+    ],
+    "question": "Qui fut le fondateur du shogunat d’Edo au Japon ?"
+  },
+  {
+    "good_answers": [
+      "2 millions"
+    ],
+    "bad_answers": [
+      "2,5 millions",
+      "3 millions",
+      "1,8 million"
+    ],
+    "question": "Quelle est la capacité des troupes ralliées par défaut lorsque votre château est de niveau 25 ?"
+  },
+  {
+    "good_answers": [
+      "4"
+    ],
+    "bad_answers": [
+      "6",
+      "5",
+      "3"
+    ],
+    "question": "Dans combien de khanats ou d’empires séparés l’Empire mongol s’était-il fracturé au moment de la mort de Kubilai en 1294 ?"
+  },
+  {
+    "good_answers": [
+      "Édouard VI"
+    ],
+    "bad_answers": [
+      "Élisabeth Ire",
+      "Marie",
+      "Anne"
+    ],
+    "question": "Qui fut le premier des enfants de Henri VIII à régner sur l'Angleterre ?"
+  },
+  {
+    "good_answers": [
+      "Aristote"
+    ],
+    "bad_answers": [
+      "Diogène",
+      "Théophraste",
+      "Platon"
+    ],
+    "question": "Dans la Grèce antique, quel philosophe aimait discuter d'idées dans la rue, une pratique qui recevra le surnom d'« École péripatéticienne » ?"
+  },
+  {
+    "good_answers": [
+      "Le phare d'Alexandrie"
+    ],
+    "bad_answers": [
+      "La tour d'Hercule",
+      "Le phare de Macédoine",
+      "Le phare de Peggys Point"
+    ],
+    "question": "Quel est le nom du phare construit après la conquête de l'Égypte par la Macédoine, et qui était l'une des sept merveilles du monde antique ?"
+  },
+  {
+    "good_answers": [
+      "Variole"
+    ],
+    "bad_answers": [
+      "Grippe",
+      "Rage",
+      "Choléra"
+    ],
+    "question": "Pour quelle maladie Edward Jenner, connu pour être le père de l’immunologie, a-t-il développé un vaccin ?"
+  },
+  {
+    "good_answers": [
+      "Une exposition rapide à de faibles quantités d'oxygène en haute altitude"
+    ],
+    "bad_answers": [
+      "Un sommeil excessif",
+      "Une intoxication alimentaire",
+      "L'épuisement physique"
+    ],
+    "question": "Quelle est la cause principale du mal aigu des montagnes ?"
+  },
+  {
+    "good_answers": [
+      "Tambour de pierre"
+    ],
+    "bad_answers": [
+      "Tableau d’affichage",
+      "Amphithéâtre de la sagesse",
+      "Château"
+    ],
+    "question": "Laquelle des propositions suivantes est un bâtiment décoratif ?"
+  },
+  {
+    "good_answers": [
+      "Nv.6"
+    ],
+    "bad_answers": [
+      "Nv.7",
+      "Nv.5",
+      "Nv. 10",
+      "Nv.10"
+    ],
+    "question": "À quel niveau VIP débloquez-vous définitivement une deuxième file d’attente de bâtiments ?"
+  },
+  {
+    "good_answers": [
+      "La dissolution de roches solubles"
+    ],
+    "bad_answers": [
+      "Aucune de ces réponses n'est correcte",
+      "Un burinage manuel",
+      "L’altération/érosion des roches"
+    ],
+    "question": "Quelle est la principale cause des reliefs karstiques ?"
+  },
+  {
+    "good_answers": [
+      "200"
+    ],
+    "bad_answers": [
+      "400",
+      "100",
+      "2000"
+    ],
+    "question": "Combien de points VIP pouvez-vous acheter avec 200 gemmes ?"
+  },
+  {
+    "good_answers": [
+      "Vaincre des troupes de barbares sur la carte"
+    ],
+    "bad_answers": [
+      "Utiliser des objets de récupération de points d’action",
+      "Envoyer des éclaireurs explorer la brume",
+      "Utiliser des accélérateurs de construction",
+      "Utiliser des objets de récupération de points d'action"
+    ],
+    "question": "Laquelle des propositions suivantes octroie des points d’activité quotidiens ?"
+  },
+  {
+    "good_answers": [
+      "Le Theater an der Wien"
+    ],
+    "bad_answers": [
+      "Le théâtre de Bolshoi",
+      "Le théâtre olympique",
+      "Le Palais Garnier"
+    ],
+    "question": "Dans quel théâtre la Symphonie n° 5 de Beethoven a-t-elle été jouée pour la première fois en 1808 ?"
+  },
+  {
+    "good_answers": [
+      "Discours du fer et du sang"
+    ],
+    "bad_answers": [
+      "| Have a Dream",
+      "Discours de Gettysburg",
+      "We Shall Fight on the Beaches"
+    ],
+    "question": "Lequel des discours suivants a été prononcé par le Premier ministre prussien Otto von Bismarck en septembre 1862 ?"
+  },
+  {
+    "good_answers": [
+      "La bataille d'Azincourt"
+    ],
+    "bad_answers": [
+      "La bataille de Marathon",
+      "Aucune de ces réponses n'est correcte",
+      "La bataille de Salamine"
+    ],
+    "question": "Lequel des événements suivants ne s’est PAS produit pendant les guerres gréco-persanes ?"
+  },
+  {
+    "good_answers": [
+      "Finlande"
+    ],
+    "bad_answers": [
+      "Nouvelle-Zélande",
+      "Cuba",
+      "Pologne"
+    ],
+    "question": "Laquelle des nations suivantes est là plus proche du Pôle Nord ?"
+  },
+  {
+    "good_answers": [
+      "Ramsès |l",
+      "Ramsès Il"
+    ],
+    "bad_answers": [
+      "Toutankhamon",
+      "Thot",
+      "Thoutmôsis IH",
+      "Thoutmôsis HH",
+      "Thoutméôsis IIl"
+    ],
+    "question": "Quel pharaon a ordonné la construction des temples d'Abou Simbel ?"
+  },
+  {
+    "good_answers": [
+      "10 %",
+      "10%"
+    ],
+    "bad_answers": [
+      "15 %",
+      "5%",
+      "20%",
+      "20 %",
+      "15%"
+    ],
+    "question": "De combien un objet Amélioration d’attaque (Avancée) augmente votre attaque ?"
+  },
+  {
+    "good_answers": [
+      "Londres"
+    ],
+    "bad_answers": [
+      "Édimbourg",
+      "Oslo",
+      "Québec"
+    ],
+    "question": "Dans quelle ville moderne le Théâtre du Globe de Shakespeare a-t-il été construit ?"
+  },
+  {
+    "good_answers": [
+      "w d , ‘.\\: >. \"\"=.\"'î“*v [ . t: ; ” [ ‘ }\\ 05 ,"
+    ],
+    "bad_answers": [
+      "c1 %  Là Æ  u= : L d ps ‘ë n L01 €",
+      "\"‘J 20",
+      ""
+    ],
+    "question": "4= \" SE ETE E LS 1 vs ” 2 {i““«\"'Ÿ’À / uCT 0RE e ?"
+  },
+  {
+    "good_answers": [
+      "Romulus est devenu le fondateur et le premier roi de Rome"
+    ],
+    "bad_answers": [
+      "Aucune de ces réponses n'est correcte",
+      "Rémus est devenu le fondateur et le premier roi de Rome",
+      "Les jumeaux et la louve sont devenus les co-dirigeants des forêts de montagne."
+    ],
+    "question": "D'après l'histoire de la louve dans la mythologie romaine, qu'est-il arrivé des jumeaux qu'elle a élevés, Romulus et Rémus ?"
+  },
+  {
+    "good_answers": [
+      "50 %",
+      "50%"
+    ],
+    "bad_answers": [
+      "5%",
+      "100 %",
+      "25 %"
+    ],
+    "question": "De combien un objet Augmentation de la vitesse de récolte augmente votre vitesse de récolte ?"
+  },
+  {
+    "good_answers": [
+      "La peste noire"
+    ],
+    "bad_answers": [
+      "Le mauvais temps",
+      "La chasse des autorités",
+      "Un tueur en série"
+    ],
+    "question": "De quoi se cachaient les hommes et femmes à la périphérie de Florence dans le recueil de nouvelles « Décaméron » ?"
+  },
+  {
+    "good_answers": [
+      "Son eau hautement saline empêche les plantes et animaux de prospérer à proximité"
+    ],
+    "bad_answers": [
+      "Des accidents étranges se produisent souvent dans les environs",
+      "Son eau contient des toxines naturelles",
+      "Des histoires religieuses liées à cette zone"
+    ],
+    "question": "Pourquoi la Mer morte a-t-elle reçu ce nom ?"
+  },
+  {
+    "good_answers": [
+      "1928"
+    ],
+    "bad_answers": [
+      "1923",
+      "Aucune de ces réponses n'est correcte",
+      "1937"
+    ],
+    "question": "En quelle année Alexander Fleming a-t-il découvert la pénicilline ?"
+  },
+  {
+    "good_answers": [
+      "La dynastie Zhou"
+    ],
+    "bad_answers": [
+      "La dynastie Shang",
+      "La dynastie Xia",
+      "La dynastie Qin"
+    ],
+    "question": "Quelle dynastie chinoise Jiang Ziya a-t-elle aidé à établir ?"
+  },
+  {
+    "good_answers": [
+      "Allemagne"
+    ],
+    "bad_answers": [
+      "Angleterre",
+      "Byzance",
+      "France"
+    ],
+    "question": "Laquelle des civilisations suivantes donne un bonus d'attaque de 5 % aux unités de cavalerie ?"
+  },
+  {
+    "good_answers": [
+      "Tombe du pharaon Khéops"
+    ],
+    "bad_answers": [
+      "Palais du pharaon Khéops",
+      "Observatoire",
+      "Terrain d’entraînement militaire"
+    ],
+    "question": "À quoi servait la pyramide de Khéops à l’origine ?"
+  },
+  {
+    "good_answers": [
+      "Bonus d’équipement"
+    ],
+    "bad_answers": [
+      "Bonus du Journal du royaume",
+      "Bonus de divers objets",
+      "Bonus des lieux saints"
+    ],
+    "question": "Lesquels des bonus suivants peuvent prendre effet pendant les batailles du Canyon du crépuscule ?"
+  },
+  {
+    "good_answers": [
+      "Hermann Ebbinghaus"
+    ],
+    "bad_answers": [
+      "Wilhelm Wundt",
+      "Karl Lashley",
+      "Heinz Hartmann"
+    ],
+    "question": "Quel psychologue allemand a découvert la courbe de l'oubli du cerveau humain ?"
+  },
+  {
+    "good_answers": [
+      "2 jours"
+    ],
+    "bad_answers": [
+      "3 jours",
+      "1 semaine",
+      "1jour"
+    ],
+    "question": "Quelle est la durée de l’objet Recrutement de bâtisseur ?"
+  },
+  {
+    "good_answers": [
+      "Raoliang"
+    ],
+    "bad_answers": [
+      "Chunxue",
+      "Da Sheng Yiyin",
+      "Xiangsi"
+    ],
+    "question": "Les quatre variétés majeures de Guzheng en Chine ancienne étaient le Haozhong, le Lugi, le Jiaowei et le…”?"
+  },
+  {
+    "good_answers": [
+      "La Chanson de Roland"
+    ],
+    "bad_answers": [
+      "La Chanson d’Abidjan",
+      "La Chanson de l'Éternité",
+      "La Chanson de Roncevaux"
+    ],
+    "question": "Laquelle des œuvres suivantes est basée sur la Bataille de Roncevaux, combattue par Charlemagne et ses chevaliers ?"
+  },
+  {
+    "good_answers": [
+      "È_,"
+    ],
+    "bad_answers": [
+      "— sSS _ , . !@r , ‘/|= u” T- “",
+      "",
+      "LS * . - …. v . - “ v . PL"
+    ],
+    "question": "e 5 À F e «_:_' S ‘. e % P9Li “{ 4 N À 3 S +  S 5® ‘\\Ÿycy ; /t€,w î _. . \\ñ 5 Ç 42 ‘€‘Î‘r‘» » \"/ÿ1l CAà L 8 :0._‘ n v e , \"ie ; 3 {‘\\'—\"Ë_ A À v 'À“' L c , :_ E// q \\?"
+  },
+  {
+    "good_answers": [
+      "Yuri Gagarin"
+    ],
+    "bad_answers": [
+      "Alan Shepard",
+      "Valentina Tereshkova",
+      "Gherman Titov"
+    ],
+    "question": "Qui fut le premier astronaute à entrer dans l’espace ?"
+  },
+  {
+    "good_answers": [
+      "Liverpool"
+    ],
+    "bad_answers": [
+      "Manchester",
+      "Birmingham",
+      "Londres"
+    ],
+    "question": "Dans quelle ville du Royaume-Uni les Beatles se sont formés en 1960 ?"
+  },
+  {
+    "good_answers": [
+      "Comète de Halley"
+    ],
+    "bad_answers": [
+      "Comète de Brorsen",
+      "Comète de Faye",
+      "Comète de Biela"
+    ],
+    "question": "Quelle est la seule comète à courte période connue régulièrement visible à l’œil nu depuis la Terre ?"
+  },
+  {
+    "good_answers": [
+      "Le festival de Venise"
+    ],
+    "bad_answers": [
+      "Le festival de Berlin",
+      "Le festival de Cannes",
+      "Le festival de Shanghai"
+    ],
+    "question": "Quel est le plus ancien festival de cinéma du monde ?"
+  },
+  {
+    "good_answers": [
+      "Thor"
+    ],
+    "bad_answers": [
+      "Odin",
+      "Loki",
+      "Freya"
+    ],
+    "question": "Dans la mythologie nordique, à qui appartient le marteau Mjolnir ?"
+  },
+  {
+    "good_answers": [
+      "Elvis Presley"
+    ],
+    "bad_answers": [
+      "Wilt Chamberlain",
+      "Placido Domingo",
+      "Harald V"
+    ],
+    "question": "Laquelle de ces personnes est née la même année que le chanteur Luciano Pavarotti ?"
+  },
+  {
+    "good_answers": [
+      "Les règles que les voitures participantes doivent suivre"
+    ],
+    "bad_answers": [
+      "La formule utilisée pour calculer la vitesse des voitures",
+      "Le nom de l'organisateur",
+      "L’endroit où les courses ont lieu"
+    ],
+    "question": "Que signifie le mot « Formule » dans « Course de Formule 1 » ?"
+  },
+  {
+    "good_answers": [
+      "Platon"
+    ],
+    "bad_answers": [
+      "Thalès",
+      "Socrate",
+      "Aristote"
+    ],
+    "question": "Quel philosophe a écrit l’Utopie ?"
+  },
+  {
+    "good_answers": [
+      "15 minutes"
+    ],
+    "bad_answers": [
+      "3 heures",
+      "1heure",
+      "1jour"
+    ],
+    "question": "Organisée en 1929, combien de temps a duré la première cérémonie des Oscars ?"
+  },
+  {
+    "good_answers": [
+      "Lactase"
+    ],
+    "bad_answers": [
+      "Lipase",
+      "Amylase",
+      "Protéase"
+    ],
+    "question": "L’intolérance au lactose est causée par un manque de quoi ?"
+  },
+  {
+    "good_answers": [
+      "Décembre"
+    ],
+    "bad_answers": [
+      "Août",
+      "Novembre",
+      "Octobre"
+    ],
+    "question": "Édouard VIII est devenu roi d’Angleterre en janvier 1936. Plus tard dans la même année, lors de quel mois a-t-il renoncé au trône ?"
+  },
+  {
+    "good_answers": [
+      "Pour inverser rapidement la direction sans faire demi-tour"
+    ],
+    "bad_answers": [
+      "À des fins esthétiques",
+      "Pour réduire la résistance au vent",
+      "Pour réduire le poids"
+    ],
+    "question": "Pourquoi la proue et la poupe des chaloupes viking ont-elles été conçues pour être symétriques ?"
+  },
+  {
+    "good_answers": [
+      "Négociant en art"
+    ],
+    "bad_answers": [
+      "Réalisateur",
+      "Peintre",
+      "Poète"
+    ],
+    "question": "Quel était le métier de Theodorus van Gogh, le frère cadet du célèbre peintre hollandais Vincent Van Gogh ?"
+  },
+  {
+    "good_answers": [
+      "1905"
+    ],
+    "bad_answers": [
+      "1915",
+      "1879",
+      "1921"
+    ],
+    "question": "En quelle année Einstein a-t-il publié ses quatre Annus Mirabilis (« année miraculeuse ») ?"
+  },
+  {
+    "good_answers": [
+      "France"
+    ],
+    "bad_answers": [
+      "Italie",
+      "États-Unis",
+      "Allemagne"
+    ],
+    "question": "En 1998, dans quel pays s’est déroulée la 16e Coupe du Monde de la FIFA ?"
+  },
+  {
+    "good_answers": [
+      "Turquie"
+    ],
+    "bad_answers": [
+      "Irak",
+      "Iran",
+      "Syrie"
+    ],
+    "question": "Dans quel pays se trouve Çatalhôyük ?"
+  },
+  {
+    "good_answers": [
+      "Les océans Pacifique et Atlantique"
+    ],
+    "bad_answers": [
+      "Les océans Atlantique et Arctique",
+      "Les océans Pacifique et Arctique",
+      "Les océans Pacifique et Indien"
+    ],
+    "question": "Quels sont les deux océans que le canal de Panama relie ?"
+  },
+  {
+    "good_answers": [
+      "Marie Curie"
+    ],
+    "bad_answers": [
+      "Bertha von Suttner",
+      "Aung San Sun Kyi",
+      "Pearl S. Buck"
+    ],
+    "question": "Qui fut la première femme à remporter un prix Nobel ?"
+  },
+  {
+    "good_answers": [
+      "Le Crystal Palace"
+    ],
+    "bad_answers": [
+      "Le Centre national de natation",
+      "Le Palace of Fine Arts",
+      "Le Palais des Nations"
+    ],
+    "question": "Quel bâtiment a été construit à l’origine à Londres pour abriter la grande exposition des œuvres de l'industrie de toutes les nations qui s’est tenue en 1851 ?"
+  },
+  {
+    "good_answers": [
+      "Une presse à caractères mobiles"
+    ],
+    "bad_answers": [
+      "Des milliers de scribes",
+      "Une presse à taille-douce",
+      "Aucune de ces réponses n'est correcte"
+    ],
+    "question": "Grâce à quoi la Bible de Gutenberg est-elle entrée en production de masse ?"
+  },
+  {
+    "good_answers": [
+      "Espagne"
+    ],
+    "bad_answers": [
+      "Italie",
+      "Inde",
+      "Portugal"
+    ],
+    "question": "Le roi de quel pays d'Europe a financé la célèbre expédition de Christophe Colomb ?"
+  },
+  {
+    "good_answers": [
+      "France"
+    ],
+    "bad_answers": [
+      "Royaume-Uni",
+      "Allemagne",
+      "Rome"
+    ],
+    "question": "Dans Rok, le Lanceur de hache est l’unité spéciale de quelle civilisation ?"
+  },
+  {
+    "good_answers": [
+      "7 points"
+    ],
+    "bad_answers": [
+      "6 points",
+      "3 points",
+      "5 points"
+    ],
+    "question": "En code Morse, quelle est la longueur en points entre deux mots ?"
+  },
+  {
+    "good_answers": [
+      "Tenzing Norgay et Edmund Hilary"
+    ],
+    "bad_answers": [
+      "George Mallory et Andrew Irvine",
+      "Junko Tabei",
+      "Peter et Edmund Hilary"
+    ],
+    "question": "Qui a ou qui ont été les premiers alpinistes à avoir officiellement atteint le sommet du mont Everest ?"
+  },
+  {
+    "good_answers": [
+      "Porto, Vila Nova de Gaia"
+    ],
+    "bad_answers": [
+      "Porto, Lisponne",
+      "Porto, Coïmbre",
+      "Lisbon, Vila Nova de Gaia",
+      "Porto, Lisbonne"
+    ],
+    "question": "Quelles sont les deux villes reliées par le pont Dom-Luis ler au Portugal ?"
+  },
+  {
+    "good_answers": [
+      "8"
+    ],
+    "bad_answers": [
+      "7",
+      "6",
+      "9"
+    ],
+    "question": "Dans le Tombeau d’Osiris, combien de téléportations gagne la première alliance à occuper un obélisque ?"
+  },
+  {
+    "good_answers": [
+      "Été"
+    ],
+    "bad_answers": [
+      "Hiver",
+      "Printemps",
+      "Automne"
+    ],
+    "question": "Pendant quelle saison les nuits sont-elles relativement courtes et les jours relativement longs ?"
+  },
+  {
+    "good_answers": [
+      "Qin"
+    ],
+    "bad_answers": [
+      "Zhao",
+      "Chu",
+      "Wei"
+    ],
+    "question": "Lors de la période des Royaumes combattants de Chine, quel État a vaincu les six autres et unifié l’Empire chinois ?"
+  },
+  {
+    "good_answers": [
+      "Hélène"
+    ],
+    "bad_answers": [
+      "Héra",
+      "Aphrodite",
+      "Artémis"
+    ],
+    "question": "Quelle beauté aurait été à l'origine de la guerre de Troie ?"
+  },
+  {
+    "good_answers": [
+      "Ottomans"
+    ],
+    "bad_answers": [
+      "Arabie",
+      "Rome",
+      "Espagne"
+    ],
+    "question": "Laquelle des civilisations suivantes augmente les dégâts des compétences actives de commandant de 5 % ?"
+  },
+  {
+    "good_answers": [
+      "Frankenstein"
+    ],
+    "bad_answers": [
+      "Prométhée délivré",
+      "Le Château d'Otrante",
+      "Don Juan"
+    ],
+    "question": "Laquelle de ces propositions est une œuvre de Mary Shelley ?"
+  },
+  {
+    "good_answers": [
+      "Taoïsme"
+    ],
+    "bad_answers": [
+      "Confucianisme",
+      "Légalisme",
+      "Militarisme"
+    ],
+    "question": "Quelle école de pensée a été fondée par le philosophe chinois Lao Tzu ?"
+  },
+  {
+    "good_answers": [
+      "Cunéiforme"
+    ],
+    "bad_answers": [
+      "Script maya",
+      "Phénicien",
+      "Écriture ossécaille"
+    ],
+    "question": "En quel script le Code de Hammurabi a été gravé dans la pierre ?"
+  },
+  {
+    "good_answers": [
+      "La prise de la Bastille"
+    ],
+    "bad_answers": [
+      "L’exécution de Louis XVI",
+      "L’établissement de la commune de Paris",
+      "Quelqu'’un a prêté le serment du Jeu de paume pour la première fois"
+    ],
+    "question": "La fête nationale française, le 14 juillet, correspond à quel événement historique ?"
+  },
+  {
+    "good_answers": [
+      "Martin Luther King Jr."
+    ],
+    "bad_answers": [
+      "Malcolm X",
+      "Robert Kennedy",
+      "Rosa Parks"
+    ],
+    "question": "Qui a donné le fameux discours « | Have a Dream » ?"
+  },
+  {
+    "good_answers": [
+      "Xuantong"
+    ],
+    "bad_answers": [
+      "Xianfeng",
+      "Tongzhi",
+      "Guangxu"
+    ],
+    "question": "Quel fut le nom de règne du dernier empereur de la dynastie Qing en Chine ?"
+  },
+  {
+    "good_answers": [
+      "États-Unis, URSS"
+    ],
+    "bad_answers": [
+      "France, URSS",
+      "France, Angleterre",
+      "États-Unis, France"
+    ],
+    "question": "Quelles sont les deux armées qui se sont réunies lors de l’Elbe Day pendant la Seconde Guerre mondiale ?"
+  },
+  {
+    "good_answers": [
+      "Charles Martel"
+    ],
+    "bad_answers": [
+      "Jeanne d’Arc",
+      "Alexandre le Grand",
+      "Bélisaire",
+      "Jeanne d’'Arc"
+    ],
+    "question": "Lequel des commandants suivants était de facto le dirigeant de son royaume, sans jamais être officiellement le chef de l’État ?"
+  },
+  {
+    "good_answers": [
+      "4h"
+    ],
+    "bad_answers": [
+      "6h",
+      "3h",
+      "5h"
+    ],
+    "question": "Combien de temps dure le bonus « Extension basique d'armée » ?"
+  },
+  {
+    "good_answers": [
+      "Nitrogène"
+    ],
+    "bad_answers": [
+      "Ozone",
+      "Méthane",
+      "Dioxyde de carbone"
+    ],
+    "question": "Laquelle des propositions suivantes n’est PAS un des gaz à effet de serre majeurs de l’atmosphère terrestre ?"
+  },
+  {
+    "good_answers": [
+      "Noël"
+    ],
+    "bad_answers": [
+      "Action de grâce",
+      "Fête des Pères",
+      "Poisson d'avril"
+    ],
+    "question": "Le phénomène « El Nino » tire son nom de laquelle des fêtes suivantes ?"
+  },
+  {
+    "good_answers": [
+      "Caoutchouc"
+    ],
+    "bad_answers": [
+      "Fourrure",
+      "Charbon",
+      "Plomb"
+    ],
+    "question": "Charles Macintosh a conçu une version très ancienne d'un imperméable à partir de quel matériau ?"
+  },
+  {
+    "good_answers": [
+      "Pression de l'air"
+    ],
+    "bad_answers": [
+      "Température",
+      "Son",
+      "Lumière"
+    ],
+    "question": "Une diminution de laquelle des métriques suivantes pourrait indiquer une augmentation de la proximité d'un état de vide ?"
+  },
+  {
+    "good_answers": [
+      "Osamu Dazai"
+    ],
+    "bad_answers": [
+      "Murasaki Shikibu",
+      "Murakami Haruki",
+      "Yasunari Kawabata"
+    ],
+    "question": "Qui est l’auteur du roman « La déchéance d’un homme » ?"
+  },
+  {
+    "good_answers": [
+      "Freyja"
+    ],
+    "bad_answers": [
+      "Diane",
+      "Vénus",
+      "Aurore"
+    ],
+    "question": "Qui est le « dieu de l’amour » dans la mythologie nordique ?"
+  },
+  {
+    "good_answers": [
+      "Turquie"
+    ],
+    "bad_answers": [
+      "Allemagne",
+      "États-Unis",
+      "Royaume-Uni"
+    ],
+    "question": "La « Marche de l’indépendance » est l’hymne national de quel pays ?"
+  },
+  {
+    "good_answers": [
+      "Pedro Alvares Cabral"
+    ],
+    "bad_answers": [
+      "Ferdinand Magellan",
+      "Bartolomeu Dias",
+      "Christophe Colomb"
+    ],
+    "question": "Lequel de ces navigateurs a été le premier Européen à arriver au Brésil ?"
+  },
+  {
+    "good_answers": [
+      "Palais de Westminster"
+    ],
+    "bad_answers": [
+      "Château de Hampton Court",
+      "Palais de Buckingham",
+      "Palais de Kensington"
+    ],
+    "question": "Dans quel palais anglais la « Chambre étoilée » siégeait-elle ?"
+  },
+  {
+    "good_answers": [
+      "Vers de terre"
+    ],
+    "bad_answers": [
+      "Fourmis",
+      "Paramécie",
+      "Escargots"
+    ],
+    "question": "Le dernier livre de Darwin traitait principalement de l’influence de quelle espèce sur le sol ?"
+  },
+  {
+    "good_answers": [
+      "1877"
+    ],
+    "bad_answers": [
+      "1922",
+      "1913",
+      "1884"
+    ],
+    "question": "En quelle année a eu lieu le premier tournoi de tennis à Wimbledon ?"
+  },
+  {
+    "good_answers": [
+      "Byzance"
+    ],
+    "bad_answers": [
+      "Espagne",
+      "Ottomans",
+      "Arabie"
+    ],
+    "question": "Laquelle de ces civilisations peut augmenter sa capacité d’hôpital ?"
+  },
+  {
+    "good_answers": [
+      "4"
+    ],
+    "bad_answers": [
+      "6",
+      "3",
+      "5"
+    ],
+    "question": "Combien de médailles d’or olympiques l’athlète afro-américain Jesse Owens a-t-il gagnées en 1936 ?"
+  },
+  {
+    "good_answers": [
+      "Page de passeport"
+    ],
+    "bad_answers": [
+      "Accélérateurs",
+      "Bouclier de la paix",
+      "Tome du savoir"
+    ],
+    "question": "Lequel de ces objets ne peut PAS être acheté dans la Boutique de la marchande mystérieuse ?"
+  },
+  {
+    "good_answers": [
+      "Augmentation de la vitesse de recherche"
+    ],
+    "bad_answers": [
+      "Augmentation de la vitesse de récolte",
+      "Augmentation de la santé des troupes",
+      "Augmentation de la charge des troupes"
+    ],
+    "question": "Quel avantage peut être obtenu en effectuant des recherches sur les « Mathématiques » à l'Académie ?"
+  },
+  {
+    "good_answers": [
+      "Tous les 4 ans"
+    ],
+    "bad_answers": [
+      "Tous les 3 ans",
+      "Tous les 5 ans",
+      "Tous les 2 ans"
+    ],
+    "question": "À quelle fréquence la Coupe du Monde de la FIFA a-t-elle lieu ?"
+  },
+  {
+    "good_answers": [
+      "La France"
+    ],
+    "bad_answers": [
+      "Les Pays-Bas",
+      "L’Espagne",
+      "L’Italie"
+    ],
+    "question": "Quel pays l’Angleterre a-t-elle affronté lors de la bataille d’Azincourt ?"
+  },
+  {
+    "good_answers": [
+      "Kusunoki Masashige"
+    ],
+    "bad_answers": [
+      "Ishida Mitsunari",
+      "Minamoto no Yoshitsune",
+      "Tomoe Gozen"
+    ],
+    "question": "Quel commandant est généralement considéré comme ayant incarné l’idéal de l’esprit du Bushido ?"
+  },
+  {
+    "good_answers": [
+      "Toutankhamon"
+    ],
+    "bad_answers": [
+      "Ménès",
+      "Cléopâtre VII",
+      "Khéops"
+    ],
+    "question": "La tombe de quel pharaon égyptien l’archéologue britannique Howard Carter a-t-il découvert en 1922 ?"
+  },
+  {
+    "good_answers": [
+      "Danemark"
+    ],
+    "bad_answers": [
+      "Belgique",
+      "Autriche",
+      "Allemagne"
+    ],
+    "question": "Dans quel pays la brasserie de renommée mondiale Carlsberg Group a été fondée en in 1847 ?"
+  },
+  {
+    "good_answers": [
+      "Entraînement de troupes"
+    ],
+    "bad_answers": [
+      "Amélioration de bâtiments",
+      "Guérison",
+      "Recherche"
+    ],
+    "question": "L’aide de l’alliance ne peut PAS accélérer laquelle des activités suivantes ?"
+  },
+  {
+    "good_answers": [
+      "1947"
+    ],
+    "bad_answers": [
+      "1944",
+      "1952",
+      "1942"
+    ],
+    "question": "En quelle année la première édition du « Journal d’Anne Frank » a-t-elle été publiée ?"
+  },
+  {
+    "good_answers": [
+      "Lucius Junius Brutus"
+    ],
+    "bad_answers": [
+      "Gaius Octavius",
+      "Marcus Julius Brutus",
+      "Jules César"
+    ],
+    "question": "Qui a été le premier consul de la République romaine ?"
+  },
+  {
+    "good_answers": [
+      "L’Amérique"
+    ],
+    "bad_answers": [
+      "L’Europe",
+      "L’Afrique",
+      "L'Asie"
+    ],
+    "question": "Quel continent a été le berceau de la civilisation maya ?"
+  },
+  {
+    "good_answers": [
+      "Pointillisme"
+    ],
+    "bad_answers": [
+      "Néoclassicisme",
+      "École de Fontainebleau",
+      "Préraphaélisme"
+    ],
+    "question": "De quelle école de peinture Georges Seurat serait-il un représentant ?"
+  },
+  {
+    "good_answers": [
+      "Guillaume le Conquérant"
+    ],
+    "bad_answers": [
+      "Robert ler",
+      "Harold |l",
+      "Harald IHl"
+    ],
+    "question": "Qui est sorti vainqueur de la bataille d’Hastings ?"
+  },
+  {
+    "good_answers": [
+      "Portugal et Espagne"
+    ],
+    "bad_answers": [
+      "France et Allemagne",
+      "Angleterre et France",
+      "Belgique et Pays-Bas"
+    ],
+    "question": "Quels sont les deux pays qui forment ensemble l’Union ibérique ?"
+  },
+  {
+    "good_answers": [
+      "Thanatos"
+    ],
+    "bad_answers": [
+      "Hypnos",
+      "Nyx",
+      "Hadès"
+    ],
+    "question": "Qui est le dieu de la mort dans la mythologie grecque ancienne ?"
+  }
 ]
