@@ -19,7 +19,7 @@
           <a class="button is-static">{{ results.length }} questions</a>
         </p>
       </div>
-      <Question v-for="(question, i) in results" :data="question" :key="i" />
+      <Question v-for="(question, i) in results" :question="question.item.question" :answers="question.item.good_answers" :matches="question.matches" :key="i" />
     </div>
   </div>
 </template>
