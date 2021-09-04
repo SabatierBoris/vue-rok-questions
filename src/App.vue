@@ -26,6 +26,7 @@
 
 <script>
 import VueFuse from 'vue-fuse'
+import axios from 'axios'
 import Question from './components/Question.vue'
 
 export default {
@@ -47,40 +48,10 @@ export default {
         ],
         includeScore: true,
         includeMatches: true,
-        minMatchCharLength: 2,
+        minMatchCharLength: 3,
+        findAllMatches: false,
       },
-      questions: [{
-        question: "Raphaël est principalement connu pour laquelle des œuvres suivantes ?",
-        good_answers: [
-          "L'École d'Athènes"
-        ],
-        bad_answers: [
-          "La Cène",
-          "Les décorations murales de la Chapelle Sixtine",
-          "Mona Lisa"
-        ],
-      }, {
-        question: "Quel commandant était considéré comme un ennemi de Rome depuis ses jeunes jours ?",
-        good_answers: [
-          "Hannibal Barca"
-        ],
-        bad_answers: [
-          "Särka",
-          "Frédéric 1er",
-          "Boadicée",
-          "Sârka",
-          "Frédéric ler",
-          "Séärka",
-          "Sérka"
-        ],
-      }, {
-        question: "Combien de phases compose l’événement Le plus grand gouverneur ?",
-        good_answers: ["6"],
-        bad_answers: [
-          "7",
-          "4"
-        ],
-      }]
+      questions: [],
     };
   },
   methods: {
@@ -88,6 +59,11 @@ export default {
       this.results = r
     },
   },
+  created() {
+    axios
+      .get('rok_questions_db.json')
+      .then(response => (this.questions = response.data))
+  }
 }
 </script>
 
