@@ -39,17 +39,12 @@ export default {
     return {
       results: [],
       options: {
-        keys: [
-          {
-            name: 'question',
-            weight: 2,
-          },
-          'good_answers',
-        ],
+        keys: ['question'],
         includeScore: true,
         includeMatches: true,
         minMatchCharLength: 3,
         findAllMatches: false,
+        ignoreLocation: true,
       },
       questions: [],
     };
