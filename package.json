@@ -13,9 +13,11 @@
     "@fortawesome/free-regular-svg-icons": "^5.15.4",
     "@fortawesome/free-solid-svg-icons": "^5.15.4",
     "@fortawesome/vue-fontawesome": "^3.0.0-4",
+    "axios": "^0.21.2",
     "bulma": "^0.9.3",
     "core-js": "^3.6.5",
     "vue": "^3.0.0",
+    "vue-axios": "^3.2.5",
     "vue-fuse": "^3.0.2"
   },
   "devDependencies": {
